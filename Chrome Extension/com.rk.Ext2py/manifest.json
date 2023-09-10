@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "com.rk.Ext2py",
+  "version": "1.0",
+  "permissions": [
+    "nativeMessaging"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

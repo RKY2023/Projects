@@ -1,0 +1,20 @@
+Step1 - connect to the folder 
+	command= cd/Desktop/foldername 
+
+Step2 - Change the filename on line number 8 
+
+Step2- add range till the page number on line no 14
+
+Step3 - Add the URL on lne number 15
+
+Step4 - add tags for pagination by selecting second last page by right clicking uh will get copy-> copy selector 
+	you will get #gridAndList > div.paging-options.paging-options-bottom.group > div > ul > li:nth-child(7) > a
+	copy this ul > li:nth-child(7) > a
+	new path ul > li:nth-of-type(7) > a
+	change on line 32
+
+Step5 - Add website URL on line 39
+
+Step6 -  run the file 
+	command- python3.5 filename.py
+

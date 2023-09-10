@@ -1,0 +1,13 @@
+Step1- connect to the folder
+	command= cd/Dessktop/foldername/event Foldername 
+
+Step2 - Change the file name on line 8  
+
+Step3 - change the url on line 14
+	eg:URL=https://s31.a2zinc.net/clients/aaos/aaos20/public/exhibitors.aspx?Index=All
+
+Step3 - add half URl on line 25 
+	Scrapped_data[]=https://s31.a2zinc.net/clients/aaos/aaos20/public
+
+Step4 - run the File 
+	command to run =python3.5 filename.py

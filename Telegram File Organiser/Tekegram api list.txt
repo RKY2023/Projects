@@ -1,0 +1,12 @@
+https://core.telegram.org/bots/api#getme
+
+https://api.telegram.org/bot%3Cbot_token%3E/getFile?file_id=the_file_id
+
+https://api.telegram.org/file/bot%3Ctoken%3E/%3Cfile_path%3E
+
+
+
+
+
+Mmy
+https://api.telegram.org/bot5551468937:AAEes7TZYh2XALZ3-t3U6YzA4a-K9r8c-t4/getMe

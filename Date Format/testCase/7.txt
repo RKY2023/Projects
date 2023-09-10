@@ -1,0 +1,167 @@
+id	name	website	start_date	end_date
+218260	Center for Advanced Automotive Technology Conference	http://autocaat.org/About_CAAT/CAAT_Conference/	2020-05-09	2020-05-09
+56796	Babyfest Northwest Expo	http://www.babyfestnw.com/	2021-03-21	2021-03-21
+64633	Original Sewing & Quilt Expo Fredericksburg	http://www.sewingexpo.com/Calendar.aspx	2020-10-01	2020-10-03
+149166	Mill Hill Antiques and Collectors Fair	http://marcelfairs.co.uk/our-fairs/	2019-11-02	2019-11-02
+230619	Antique Vintage & Collectors Fair Stirling	http://www.scotfairs.co.uk/calendar.htm	2019-11-02	2019-11-02
+234342	Wimberley Lions Market Days	http://www.shopmarketdays.com/dates.html	2019-11-02	2019-11-02
+276159	Somerset Farmers Markets Axbridge	http://www.somersetfarmersmarkets.co.uk/markets/axbridge/	2019-11-02	2019-11-02
+297692	Bloomsbury Coin Fair	http://www.bloomsburycoinfair.com/future-show-dates.php	2019-12-07	2019-12-07
+299131	Premier Music Fair Bolton	http://premierfairs.co.uk/	2019-11-30	2019-11-30
+345199	Gilbert Art Walk	https://www.gilbertartwalk.com/-vendor-information.html	2019-11-16	2019-11-16
+72998	Great American Beer Festival	https://www.greatamericanbeerfestival.com/info/faq/	2020-09-24	2020-09-26
+222063	PBFA Book Fair Bury St Edmunds	https://www.pbfa.org/fairs/bury-st-edmunds-2	2020-05-30	2020-05-30
+309075	Art in the Park Blowing Rock	https://blowingrock.com/artinthepark/	2020-05-23	2020-05-23
+220820	ANNUAL NASW/TEXAS CONFERENCE	https://www.naswtx.org/page/Conf_FutureEvents	2020-10-08	2020-10-10
+223988	Toronto Coin Expo - Canada's Coin & Banknote Show	http://www.torontocoinexpo.ca/dates.php	2020-05-01	2020-05-02
+241987	Wisconsin Antiques Dealers Association Show and Sale	http://www.wisconsinantiquesdealers.com/	2020-01-31	2020-02-01
+235499	IRC Conference	http://www.illinoisreadingcouncil.org/conference/futureircconferences.html	2020-10-01	2020-10-02
+273916	Limited Obstetric Ultrasound Course	https://www.jefferson.edu/university/jmc/departments/radiology/jurei/cme_courses/limited_ultrasound.html	2020-01-09	2020-01-11
+18939	Fall Craft and Gift Show	https://www.cadybethshows.com/minnesota/	2019-10-26	2019-10-27
+73121	MPIRES	https://mpires.ru/en/	2020-03-13	2020-03-14
+128128	SANS Northern Virginia	https://www.sans.org/event/northern-va-spring-reston-2020	2020-03-02	2020-03-07
+187015	North Bergen Flea Market & Collectible Show	https://www.jcpromotions.info/calendar/event/north-bergen-new-jersey-783	2019-11-02	2019-11-02
+223937	New Hampshire Coin & Currency Expo	http://www.ebwpromotions.com/	2020-04-10	2020-04-11
+276075	Dubbo Farmers Market	http://www.dubbofarmersmarket.org.au	2019-11-02	2019-11-02
+276160	Somerset Farmers Markets Midsomer Norton	http://www.somersetfarmersmarkets.co.uk/markets/midsomer-norton/	2019-11-02	2019-11-02
+282709	Gazeebo Burger Monthly Car Show Flyer	http://www.monthlymuscle.com/html_files/flyers.html	2019-11-02	2019-11-02
+299870	Beacon Fair Haywards Heath	http://postcard.co.uk/fair_organiser.php?ref=215	2019-11-02	2019-11-02
+302177	North Dallas Toys Show	https://northdallastoyshow.wixsite.com/toys	2019-11-02	2019-11-02
+302675	Inturpex Stamp and Cover Expo	http://www.inturpex.com/inx080_files/Page580.htm	2019-11-02	2019-11-02
+332074	Leeds Vintage Market Fair	https://www.advintageous.co.uk/	2019-11-02	2019-11-02
+359010	Artisan Crafts Vintage and Gift Fair	https://www.eventissima.co.uk/artisan-crafts-vintage-gift-fairs-2019-and-2020-live-availability/	2019-11-02	2019-11-02
+269676	Winter Antique Show	https://www.roundtoptexasantiques.com/show-dates	2020-01-24	2020-01-25
+258937	Nachtflohmarkt Magdeburg	https://www.nachtflohmaerkte.de/magdeburg/	2019-11-16	2019-11-16
+272520	Thieves Market	https://thievesmarketvintageflea.com/	2019-11-02	2019-11-02
+270957	Chicago Civil War Show & Sale	https://chicagocivilwarshow.com/	2020-04-25	2020-04-25
+191797	ReptiDay Ft. Myers Show	https://repticon.com/show-calendar/	2020-06-27	2020-06-27
+258938	Nachtflohmarkt Riesa	https://www.nachtflohmaerkte.de/riesa/	2019-11-02	2019-11-02
+258941	Nachtflohmarkt Cottbus	https://www.nachtflohmaerkte.de/cottbus/	2019-11-02	2019-11-02
+304059	Ecology Technologies Life	https://bvkexpo.ru/category/kalendar/vystavki/?yearr=2020	2020-04-21	2020-04-23
+200173	Tedx Wake Forest U	https://www.ted.com/tedx/events/36642	2020-01-25	2020-01-25
+71132	Chicago National College Fair	https://www.nacacfairs.org/attend/national-college-fairs/suburban-chicago-national-college-fair/	2020-03-14	2020-03-14
+271688	New York National College Fair	https://www.nacacfairs.org/attend/national-college-fairs/new-york-college-fair/	2020-04-26	2020-04-26
+224529	Comicon	https://www.mcbacomicons.com/	2020-05-16	2020-05-17
+337902	Radiation Safety in Imaging Today	https://store.aheconline.com/index.php?route=product/product&path=59&product_id=5436	2020-03-06	2020-03-06
+272256	Gynecological Ultrasound	https://store.aheconline.com/index.php?route=product/product&path=59&product_id=5038	2019-12-13	2019-12-14
+298566	PM Expo South Florida	https://www.pm-expo.com/west-palm-beach-spring-2020/	2020-02-26	2020-02-26
+126676	Electro	https://volgogradexpo.ru/exhibitions/	2020-03-18	2020-03-20
+385719	Carney Sandoe & Associates Forum San Francisco	https://www.carneysandoe.com/conference/forumsanfran	2020-03-06	2020-03-06
+289597	"Managing Well Integrity Through Design, Verification And Repairs"	https://www.opuskinetic.com/event/managing-well-integrity-through-design-verification-and-repairs-5/	2019-12-02	2019-12-04
+369743	Dallas Job Fair	https://www.jobfairx.com/index.php/jobfair/seeker_jobfair/744	2019-12-09	2019-12-09
+115753	"International Conference on Medical, Medicine and Health Sciences"	https://academicfora.com/mmhs-november-04-05-2019-singapore/	2019-11-04	2019-11-05
+233332	Women Leaders in Financial Services Law and Compliance Conference	https://www.americanconference.com/women-leaders-finance/	2020-09-17	2020-09-18
+107359	Finance for Non Finance Managers	https://www.lgnsw.org.au/events-training/finance-non-finance-managers-1	2019-11-26	2019-11-26
+133051	New England Software Symposium	https://nofluffjuststuff.com/conference/boston/2020/03/home	2020-03-13	2020-03-15
+411808	Dazzle Business Women's Conference	http://eventsbydazzle.co.za	2020-08-12	2020-08-12
+183369	Commercial Property Valuation Fundamentals	https://www.rics.org/uk/events/training-courses/commercial-property-valuation-fundamentals/london/20191002/	2020-04-01	2020-04-01
+432727	International Association of Inter-American Studies Biennial Conference	http://www.interamericanstudies.net/?page_id=6869	2020-10-01	2020-10-03
+250472	International Conference on Engineering & Technology Computer Basic & Applied Sciences - Singapore	https://academicfora.com/ecba-singapore-november-04-05-2019/	2019-11-04	2019-11-05
+412174	International Conference on Computing Communication & Informatics	https://iccci.org.my/	2020-09-11	2020-09-13
+208947	Tank Storage Conference And Exhibition	https://www.tankstorage.org.uk/conference-exhibition/	2020-09-24	2020-09-24
+151625	Sign & Display Show	https://www.tokobi.or.jp/sds/	2020-10-01	2020-10-02
+354001	Forecourt and Convenience Retail Expo	https://www.prempub.com/events/	2020-09-10	2020-09-10
+106109	CIO UK Summit	https://ciouksummit.com/	2020-03-19	2020-03-19
+445733	Rendez-vous Canada	https://www.rendezvouscanada.ca/	2020-05-05	2020-05-08
+445733	Rendez-vous Canada	https://www.rendezvouscanada.ca/	2020-05-05	2020-05-08
+445542	South-East Europ Berry Conference	https://berryconference.com/home/	2020-02-21	2020-02-22
+445654	ICEF Higher Education	https://www.icef.com/events/icef-higher-education/	2020-09-12	2020-09-14
+445676	Investigating and Prosecuting Offences in Cooperation with the EPPO Seminar	https://www.era.int/cgi-bin/cms?_SID=fa0358dfee5f32ad6fafcad556a1c0383e81749900658123293168&_sprache=en&_bereich=artikel&_aktion=detail&idartikel=129234	2020-02-06	2020-02-07
+445646	International Stroke-Immunology Meeting	http://strokeimmunology.com/	2020-04-01	2020-04-03
+445522	"China International Food, Meat and Aquatic Products Exhibition"	http://www.goldenexpo.com.cn/web/cn/Exhibition/info-4.html	2020-09-17	2020-09-19
+445691	NCSP Annual Educational Seminar	https://www.ncsocietyofperfusion.org/conference	2019-11-02	2019-11-03
+445652	"International Conference on Internet of Things, Embedded Systems and Communications"	http://www.iintec.org/	2019-12-20	2019-12-22
+445666	WSO World Convention on Stevia Tasteful	https://www.wso-site.com/	2019-10-24	2019-10-25
+445459	DynamicsPower! Kansas City	https://www.365portal.org/events/event/?id=a147dddf-69b3-e911-a996-00224800ce20	2019-11-08	2019-11-09
+445671	European Association for Osseointegration Annual Scientific Meeting	https://www.eao.org/page/FutureCongresses	2020-10-08	2020-10-10
+445456	World Congress on Pharmacology & Drug Discovery	https://pharmacologycongress.org/	2020-09-21	2020-09-23
+445613	IDAExpo	https://doors.org/idaexpo-events/idaexpo	2021-04-22	2021-04-25
+445584	EESVO Ophthalmology Conference	https://eesvo.org/the-5th-eesvo-ophthalmology-conference-lodz-15-listopada-2019/	2019-11-15	2019-11-15
+405519	International Conference on Environmental and Water Resources Engineering	http://www.ewre2019.net/venue.html	2019-10-18	2019-10-20
+436592	International Conference on Innovative & Advanced Engineering Research	https://www.iciaer.in	2019-10-18	2019-10-19
+366694	Chief Analytics Officer	https://cao-fall.coriniumintelligence.com/	2019-11-18	2019-11-20
+165776	Expo Tu Boda	https://www.expotuboda.com.mx/mexico/	2019-10-18	2019-10-20
+424616	Malta Corporate Aviation Symposium	http://www.aeropodium.com/malta.html	2019-11-27	2019-11-27
+331883	Camper & Caravano Show	https://www.campercaravanshow.com/en/	2019-10-18	2019-10-20
+414825	International Conference on Crowd Science and Engineering	http://iccse2019.crowdscience.org/conferencevenue/conference-venue/	2019-10-18	2019-10-21
+380153	"International Conference on Management, Economics & Social Science"	http://researchfora.com/Conference2020/SouthKorea/2/ICMESS/	2020-01-04	2020-01-05
+303535	Salon Wine and Gastronomy	https://www.salons-vins-gastronomie.fr/fr/nos-dates	2020-10-23	2020-10-26
+235745	Anime Banzai	https://www.animebanzai.org/event/anime-banzai-convention/?instance_id=3	2019-10-18	2019-10-20
+282596	Trade Fair for Suppliers of Maintenance Products and Services	https://mtc.krakow.pl/pl/o-targach/kolejna-edycja.html	2020-10-14	2020-10-15
+339884	Manitoba Coin Club Inc.	http://www.manitobacoinclub.org/index.htm	2020-09-26	2020-09-27
+385600	International Conference on Naval Architecture and Ocean & Marine Engineering	http://www.icnaome.org/	2019-10-18	2019-10-20
+330991	Time Out for Women	https://www.tofw.com/logan-ut	2019-10-18	2019-10-19
+20771	Style & Fashion	http://www.expo-vakarai.lt/en/stiliuz_2019	2019-10-18	2019-10-20
+412890	PDHPE Teachers Association Annual State Conference	http://www.pdhpeta.org/conference/	2019-10-18	2019-10-19
+248278	Chicago Breast and Lymphedema Symposium	http://www.ucmcsymposium.com/	2019-10-18	2019-10-19
+146996	Limassol Economic Forum	https://www.imhbusiness.com/en/10th-limassol-economic-forum	2019-10-18	2019-10-18
+436658	Insolvency Summit	http://insolvencysummit.legaleraonline.com	2019-10-18	2019-10-18
+51645	Intellectbase International Consortium Academic Conference	http://www.intellectbase.org/general_inquiries.php	2019-10-18	2019-10-19
+344701	KTQ Forum	https://www.ktq.de/index.php?id=41	2019-10-18	2019-10-18
+71278	Whisky Live Warsaw	http://www.whiskylive.com/events/poland/warsaw#GOTO	2019-10-18	2019-10-19
+249016	Career Services Career-Internship Day	https://www.fhsu.edu/career/fairs/cfairs/	2020-02-26	2020-02-26
+242035	Scottish Learning Festival	https://www.scottishlearningfestival.com	2020-09-23	2020-09-24
+408943	"International Conference on Computer, Software Engineering and Applications"	http://www.csea.net/	2019-10-18	2019-10-20
+267612	"International Conference on Medical, Medicine and Health Sciences"	https://academicfora.com/mmhs-november-15-16-2019-dubai-uae/	2019-11-15	2019-11-16
+182019	Galloway Antiques Fairs Cranleigh	https://www.gallowayfairs.co.uk/galloway-fairs-dates	2020-10-23	2020-10-25
+70953	Diversity Employment Day Career Fairs	http://citycareerfair.com/2020-schedule/	2020-10-07	2020-10-07
+415924	International Conference on Ageless Aging	http://icaa2019.crowdscience.org/	2019-10-18	2019-10-21
+426310	Pain Society of Alberta Annual Conference	https://www.painab.ca/	2019-10-17	2019-10-20
+400003	Reynolds Symposium: Education by Design	https://reynoldssymposium.uoregon.edu/final-schedule/	2019-10-18	2019-10-19
+36760	Innovative Learning Conference	https://www.innovativelearningconference.org/ehome/index.php?eventid=190155&tabid=430590&	2019-10-16	2019-10-18
+9669	Industrial Cold	https://euroindex.ua/indexe.php?ide=2	2020-03-17	2020-03-19
+248825	Philadelphia Career Fair	https://choicecareerfairs.com/b/philadelphia	2019-11-20	2019-11-20
+394310	Energy Psychology Conference Canada	https://www.epccanada.ca/	2019-10-17	2019-10-21
+294614	CX Summit	http://cxsummit.co.in/	2019-11-14	2019-11-15
+310295	ad:tech New Zealand	https://auckland.ad-tech.com/	2019-11-14	2019-11-14
+365946	Esri Canada User Conference	https://esri.ca/en/events/user-conferences/esri-canada-user-conference-regina-2019	2019-11-13	2019-11-13
+372647	Hotel Management Indonesia Summit	https://www.questexevent.com/HotelManagementSummit/2019/indonesia#/venue	2019-11-14	2019-11-14
+432736	Marcums Year End Tax Seminar Miami	http://www.marcumevents.com/monthly-events/marcums-2019-year-end-tax-seminar-miami	2019-10-24	2019-10-24
+424872	Global Summit on Material Science & Engineering	https://www.coalesceresearchgroup.com/conferences/materialresearch	2019-11-14	2019-11-15
+415714	Future of Technology Summit	https://www.fotics.com/stockholm/	2020-11-14	2020-11-15
+3405	Exhibition of Education Technology	http://www.incheba.sk/en/event-calendar.html?page_id=137	2019-11-07	2019-11-10
+337478	International Multithematic Bio-Medical Congress	http://bsc.euc.ac.cy/	2019-11-07	2019-11-09
+166285	Funds To Watch	https://events.investmentweek.co.uk/fundstowatch	2019-11-14	2019-11-15
+379890	Zak World of Facades South East Asia	https://zakworldoffacades.com/event/zak-world-of-facades-sg-19/	2019-11-14	2019-11-14
+408161	Gulf Supply Chain Leadership Senate	http://www.gulfsclsenate.com/	2019-11-14	2019-11-14
+329674	ASHE Conference	https://convention2.allacademic.com/one/ashe/ashe19/	2019-11-14	2019-11-16
+401361	EuroSTAR Software Testing Conference	https://eurostarsoftwaretesting.com/?utm_source=testingconferences	2019-11-11	2019-11-14
+172685	Dni Obuwia Warsaw	https://www.polshoes.com/kalendarium	2019-11-14	2019-11-14
+385124	European Conference on Management Leadership and Governance	https://www.academic-conferences.org/conferences/ecmlg/	2019-11-14	2019-11-15
+415593	Electrification in the Transport Industry	https://www.nafems.org/events/nafems/2019/electrification-dans-industrie-des-transports/	2019-11-13	2019-11-13
+437278	Facilities Management Conclave	http://www.indiahorecaexpo.com/index.php	2019-11-14	2019-11-16
+291349	The EPC & Renewables	http://africanpetrochemicals.co.za/petrochemical-epc-roadshows-south-africa-2017/	2019-10-17	2019-10-17
+284750	"Wine, Women & Shoe show"	http://www.winewomenandshoes.com/event/fortycarrots/	2019-11-14	2019-11-16
+172782	Llandudno Christmas Fayre	https://www.llandudnochristmasfayre.co.uk/	2019-11-14	2019-11-17
+405760	World Congress on Biotechnology	https://biotechnologycongress.conferenceseries.com/	2019-11-14	2019-11-15
+101464	Art Elysees	http://www.8e-avenue.com/en/	2019-10-17	2019-10-21
+277098	Stunfest	https://www.stunfest.com/en/save-the-date/	2020-05-11	2020-05-17
+367832	India Nuclear Business Platform	http://www.nuclearbusiness-platform.com/india/	2019-11-13	2019-11-14
+424812	Asia Cement Trade Summit	https://www.cmtevents.com/aboutevent.aspx?ev=191131&	2019-11-13	2019-11-14
+391621	International Conference on Virtualization Application and Technology	http://www.icvat.org/venue.html	2019-11-14	2019-11-16
+440385	Safety Committee Conference	http://scc.pacificsafetycenter.com/	2019-11-15	2019-11-15
+134008	Iowa IT Symposium	https://www.iowaitsymposium.com/	2019-11-14	2019-11-14
+377368	International Conference on Tunnel Boring Machines in Difficult Grounds	https://tbmdigs2019.org/	2019-11-13	2019-11-15
+299687	Reflections of a Bygone Age	http://postcardcollecting.co.uk/	2020-02-01	2020-02-01
+284751	Galway Theatre Festival	http://galwaytheatrefestival.com/	2020-05-01	2020-05-09
+437888	Local Government Transformation Canada	https://events.publicsectornetwork.co/events/local-government-transformation-series-canada/	2020-11-29	2020-11-29
+175908	Atlanta Pitch Summit	http://www.atlantapitchsummit.com/conference/the-atlanta-pitch-summit/	2019-10-11	2019-10-12
+426260	Homes for the North Conference	https://homesforthenorthconference.co.uk/	2019-11-14	2019-11-14
+401896	CEBA Conference & Expo	https://www.gcca.org/conference	2019-11-14	2019-11-16
+381499	Dorothy Hill Women in Earth Science Symposium	https://absoluteevents.eventsair.com/QuickEventWebsitePortal/dorothy-hill-symposium/dhsymposium	2019-11-14	2019-11-15
+428705	Real Estate Development Summit Asia	https://redevelopmentsummit.com/asia/	2019-11-14	2019-11-15
+430994	European Conclave on Neonatology and Pediatrics	https://pediatrics-neonatology.healthconferences.org/	2020-11-21	2020-11-22
+418716	World Education Fair Slovenia	https://www.iwef.eu/events/world-education-fair-ljubljana-fall-2019?tab=location	2019-11-14	2019-11-14
+366527	Sportur Galicia	https://www.sporturgalicia.com/	2019-11-15	2019-11-16
+411379	International Conference on Heart & Clinical Cardiology Research	https://coalesceresearchgroup.com/conferences/heartcongress	2019-11-14	2019-11-15
+426936	R&D Sourcing & Procurement in Pharma Summit & Exhibition	https://curtiswyss.com/events/procurement.html	2019-11-14	2019-11-15
+319207	InterFace Nebraska	https://f2fevents.com/event/neb19/	2019-11-14	2019-11-14
+436845	Bisnow Multifamily Annual Conference	https://www.bisnow.com/events/chicago/bisnow-multifamily-annual-conference-bmac-midwest-2614	2019-11-14	2019-11-14
+396038	Leadership and Physician Advisor Conference	https://www.acmaweb.org/leadership_net/	2019-11-15	2019-11-17
+438853	Technology in Human Resources Conference	http://kiweb.co.za/technology-in-human-resources-conference-2019-14-15-november-at-sandton-convention-centre-in-johannesburg/	2019-11-14	2019-11-15
+161959	Conference on Labor Law & Labor	https://www.laborarb.com/Conference-Details.cfm?ConferenceID=178	2019-11-14	2019-11-14
+123308	RAILWAY FORUM Berlin	https://www.railwayforumberlin.com/	2021-09-07	2021-09-08
+212455	Energy Management Summit	https://energymanagementsummit.co.uk/	2020-10-05	2020-10-06
+313899	Lady Fashion Floh Markt Dresden	https://www.ladyfashion-flohmarkt.de/location/dresden-2/	2020-05-17	2020-05-17
+290339	Hosen Scheisser Flohmarkt Dresden	https://www.hosenscheisser-flohmarkt.de/location/dresden/	2020-05-17	2020-05-17
+412714	Inter Auto Tunisia	http://bgroupus.com/portfolio/inter-auto-tunisia/	2019-11-13	2019-11-17

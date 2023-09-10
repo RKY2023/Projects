@@ -1,0 +1,39 @@
+{
+    "manifest_version": 3,
+    "name": "Asher Extension",
+    "description": "Asher Level Extension",
+    "version": "1.0",
+    "icons": {
+      "16": "images/reso_ext.png",
+      "32": "images/reso_ext.png",
+      "48": "images/reso_ext.png",
+      "128": "images/reso_ext.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*/*"],
+        "js": ["scripts/content_script.js"]
+      }
+    ],
+    "action": {
+      "default_icon": {
+        "16": "images/reso_ext.png",
+        "32": "images/reso_ext.png",
+        "48": "images/reso_ext.png",
+        "128": "images/reso_ext.png"
+      }
+    },
+    "permissions": ["tabs",
+    "activeTab"],
+    "commands": {
+      "_execute_action": {
+        "suggested_key": {
+          "default": "Ctrl+B",
+          "mac": "Command+B"
+        }
+      }
+  }
+}

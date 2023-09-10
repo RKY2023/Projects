@@ -1,0 +1,21 @@
+rky023@rky2023:~/homestead$ ssh-keygen -t rsa -C "vagrant@homestead"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/rky023/.ssh/id_rsa): HomesteadKey.txt 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in HomesteadKey.txt.
+Your public key has been saved in HomesteadKey.txt.pub.
+The key fingerprint is:
+SHA256:jn+kuADOt2woQMzs2eEPS1oJBG+N9lhbjdyOJSYIoKo vagrant@homestead
+The key's randomart image is:
++---[RSA 2048]----+
+|*                |
+|.+ + . +         |
+|* * + * +        |
+|.O = = =         |
+|+ B = . S        |
+|o= O   o  .      |
+|E *.* ...o       |
+|...+.+... .      |
+| . .o ....       |
++----[SHA256]-----+

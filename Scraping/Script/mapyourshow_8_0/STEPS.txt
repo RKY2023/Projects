@@ -1,0 +1,10 @@
+Steps1- connect the folder 
+	command cd/Desktop/foldername
+
+Step2 - change event names taking them from URL 
+	eg:https://NABNY19.mapyourshow.com/8_0/explore/exhibitor-alphalist.cfm#/
+	eventNames = ["amerimold20","bio2020","nafa20","atd2020"]
+	take only uppercase name and add it on line 12
+
+Step3 - run the file 
+	command= python3.5 filename.py

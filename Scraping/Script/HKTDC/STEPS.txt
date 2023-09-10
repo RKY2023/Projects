@@ -1,0 +1,15 @@
+Step1 - connect the folder 
+	command= cd/Desktop/Foldername
+
+Step2 - change the file name on line number 7  
+
+Step3 - provide the page range from which page You need to scrap on line no 12 
+
+Step4- Inspect the API URl from network and insert it on line number 15
+	eg:https://api-fair.hktdc.com/fair-company/v1/companies?language=en&fairSymbol=hktoyfair&pageItem=60&page=
+
+
+Step5 - run the file 
+	command= python3.5 filename.py
+
+

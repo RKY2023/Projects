@@ -1,0 +1,7 @@
+{
+  "name": "com.rk.Ext2py",
+  "description": "Ext to py",
+  "path": "D:\\Work\\CMD\\cmdRk.lnk",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://dikaeaeidlhloapeaflibbjngeobhodm/"]
+}

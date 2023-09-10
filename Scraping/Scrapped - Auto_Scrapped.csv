@@ -1,0 +1,63 @@
+URL,Organizer,Added,Script name,10times Event URL,event_start_month,Crawler Frequency,,,Status
+https://www.interphex.com/Show-Info/Exhibitor-List/#,Reed Exhibition,15/04/19,interphex.py,https://10times.com/interphex-usa,Apr,Jan,Feb,Mar,uploaded
+https://www.eseexpo.com/cgi-bin/md_energy/lib/pub/tt.cgi/Exhibitor_Index_A-Z.html?oid=6468&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,11/3/2019,energystorage12-14.py,https://10times.com/energy-storage-expo,Mar,Dec,Jan,Feb,uploaded
+https://www.make-up-artist-show.com/vis/v1/en/directory/a?oid=12062&lang=2,Messe Düsseldorf GmbH ,5/3/2019,makeup_artist30-31.py,https://10times.com/makeup-artist-designshow,Mar,Dec,Jan,Feb,uploaded
+https://www.prowein.com/cgi-bin/md_prowein/lib/pub/tt.cgi/Exhibitor_index_A-Z.html?oid=29558&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,11/3/2019,prowein17-19.py,https://10times.com/prowein,Mar,Dec,Jan,Feb,uploaded
+https://www.top-hair-international.com/cgi-bin/md_tophair/lib/pub/tt.cgi/Exhibitor_Index_A-Z.html?oid=11920&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,5/3/2019,tophair30-31.py,https://10times.com/top-hair-international,Mar,Dec,Jan,Feb,uploaded
+https://www.gifa.com/cgi-bin/md_gmtn/lib/pub/tt.cgi/Exhibitor_Index_A-Z.html?oid=290386&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,5/3/2019,gifa25-29.py,https://10times.com/gifa-germany,Jun,Mar,Apr,May,uploaded
+https://www.metec.de/cgi-bin/md_gmtn/lib/pub/tt.cgi/Ausstellerverzeichnis_A-Z.html?oid=290390&lang=1&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,28/03/19,metec25-29.py,https://10times.com/metec-d-sseldorf,Jun,Mar,Apr,May,uploaded
+https://www.newcast.com/cgi-bin/md_gmtn/lib/pub/tt.cgi/Exhibitor_Index_A-Z.html?oid=290388&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,29/03/19,newcast25-29.py,https://10times.com/newcast/exhibitors,Jun,Mar,Apr,May,uploaded
+https://www.thermprocess.de/cgi-bin/md_gmtn/lib/pub/tt.cgi/Ausstellerverzeichnis_A-Z.html?oid=290392&lang=1&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,29/03/19,therm25-29.py,https://10times.com/therm-process,Jun,Mar,Apr,May,uploaded
+https://www.aplusa-online.com/cgi-bin/md_aplusa/lib/pub/tt.cgi/Exhibitor_Index_A-Z.html?oid=19008&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,13/05/19,a+a.py,https://10times.com/a-a-messe-dusseldorf,Nov,Aug,Sep,Oct,uploaded
+https://www.rehacare.com/cgi-bin/md_rehacare/lib/pub/tt.cgi/Exhibitors_from_A-Z.html?oid=43612&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,13/05/19,rehcare.py,https://10times.com/rehacare, ,Jun,Jul,Aug,uploaded
+https://www.medica-tradefair.com/cgi-bin/md_medica/lib/pub/tt.cgi/Exhibitor_index_A-Z.html?oid=80398&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,14/05/19,medica.py,https://10times.com/medica-de,Nov,Aug,Sep,Oct,uploaded
+https://www.valveworldexpo.com/cgi-bin/md_valve/lib/pub/tt.cgi/Exhibitor_Index_A-Z.html?oid=8560&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,14/05/19,valveworldexpo.py,https://10times.com/valve-world-expo,Dec,Sep,Oct,Nov,uploaded
+https://www.glasstec.de/cgi-bin/md_glasstec/lib/pub/tt.cgi/Ausstellerverzeichnis_A-Z.html?oid=18438&lang=1&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,13/05/19,glasstec.py,https://10times.com/glasstec-germany,Oct,Jul,Aug,Sep,old data new yet to come
+https://www.omniagmd.com/exhibitordirectory/africa-health,Informamarkets,15/04/19,africahealth.py,https://10times.com/africa-health,May,Feb,Mar,Apr,uploaded
+https://www.omniagmd.com/exhibitordirectory/fime,Informamarkets,17/04/19,FIME2019.py,https://10times.com/fime,Jun,Mar,Apr,May,uploaded
+https://www.buildingproductgallery.com/exhibitordirectory/abx,Informamarkets,10/5/2019,archiboston.py,https://10times.com/architecture-boston-expo,Nov,Aug,Sep,Oct,uploaded
+https://www.buildingproductgallery.com/exhibitordirectory/greenbuild,Informamarkets,13/05/19,greenbuild.py,https://10times.com/greenbuild-qa,Oct,Jul,Aug,Sep,uploaded
+https://www.compamed-tradefair.com/cgi-bin/md_compamed/lib/pub/tt.cgi/Exhibitor_index_A-Z.html?oid=53322&lang=2&ticket=g_u_e_s_t,Messe Düsseldorf GmbH ,5/17/2019,compamed.py,https://10times.com/compamed,Nov,Aug,Sep,Oct,old data new yet to come
+https://www.pgashow.com/Show-Info/Exhibitor-List/#,Reed Exhibition,5/21/2019,pgshow.py,https://10times.com/pga-merchandise-show,Jan,Oct,Nov,Dec,old data new yet to come
+https://www.intermoldthailand.com,Reed Exhibition,5/21/2019,intermold.py,https://10times.com/intermold-thailand,Jun,Mar,Apr,May,uploaded count=78
+https://www.interplasthailand.com/,Reed Exhibition,5/21/2019,interplas.py,https://10times.com/interplas-thailand,Jun,Mar,Apr,May,uploaded count=116
+https://www.automanexpo.com/,Reed Exhibition,5/21/2019,automotive.py,https://10times.com/automotive-manufacturing-thailand,Jun,Mar,Apr,May,uploaded count=69
+https://www.assemblytechexpo.com/,Reed Exhibition,5/21/2019,assembly.py,https://10times.com/assembly-technology-thailand,Jun,Mar,Apr,May,uploaded count=132
+https://www.surfaceandcoatings.com/,Reed Exhibition,5/21/2019,surface.py,https://10times.com/surface-coatings,Jun,Mar,Apr,May,uploaded count=40
+https://www.equiphotel.com/fr/EquipHotel-Paris-2018/exposants/#search=d%3D103763%257C152_287785%252C103763%257C152_287930%252C103763%257C152_287931%252C103763%257C152_287932%26rpp%3D12,Reed Exhibition,5/24/2019,equihotel.py,https://10times.com/equiphotel/exhibitors,Nov,Aug,Sep,Oct,old data new yet to come
+https://s36.a2zinc.net/clients/sme/Fabtech2019/Public/Exhibitors.aspx?_ga=2.232158175.1712883625.1559717322-791202961.1559717322,A2Z Inc,24-06-2019,fabtech.py,https://10times.com/fabtech-chicago,,,,,
+https://csc.a2zinc.net/CSC2019/Public/exhibitors.aspx?ID=20599&_ga=2.162946044.1578459660.1560919783-732381466.1560919783,A2Z Inc,24-06-2019,constsuperconfo.py,https://10times.com/construction-super,,,,,
+https://iss.a2zinc.net/LongBeach2019/Public/exhibitors.aspx?ID=15507&_ga=2.231236058.414603764.1560919936-253241350.1560919936,l-scroll-left,24-06-2019,iss.py,https://10times.com/imprinted-sportswear-longbeach,,,,,
+https://east.visionexpo.com/Show-Floor/Exhibitors/#search=d%3D%26rpp%3D12,Reed Exhibition,27-06-2019,vision.py,https://10times.com/international-vision-east,,,,,
+https://www.tasc-expo.com/vis/v1/en/directory/a?oid=21016&lang=2,Messe Düsseldorf GmbH ,1/7/2019,tasc.py,https://10times.com/automotive-glass-smart-repair-and-car-detailing,,,,,
+https://www.caravan-salon.com/en/Exhibitors_Products/Exhibitor_Index_A-Z,Messe Düsseldorf GmbH ,1/7/2019,carvan.py,https://10times.com/caravan-salon,,,,,
+https://www.tournatur.com/vis/v1/de/directory/b?oid=6966&lang=1,Messe Düsseldorf GmbH ,1/7/2019,tour.py,https://10times.com/tour-natur,,,,,
+https://www.k-online.com/vis/v1/en/directory/b?oid=87922&lang=2,Messe Düsseldorf GmbH ,1/7/2019,k.py,https://10times.com/k-plastics-rubber/exhibitors?pp,,,,,
+https://s23.a2zinc.net/clients/pba/cosmoprof2019/Public/Exhibitors.aspx?Index=All&ID=8707&sortMenu=102000,A2Z Inc,1/7/2019,comsoprof.py,https://10times.com/cosmoprof-north-america,,,,,
+https://s15.a2zinc.net/clients/isa/isa2019/Public/Exhibitors.aspx?Index=All,A2Z Inc,1/7/2019,signexpo.py,https://10times.com/isa-international-sign-expo,,,,,
+https://s23.a2zinc.net/clients/ibie/ibie2019/Public/Exhibitors.aspx?Index=All,A2Z Inc,1/7/2019,ibie.py,https://10times.com/international-bakingindustry-exposition,,,,,
+https://s23.a2zinc.net/clients/WPA/SZ2019/Public/Exhibitors.aspx?Index=All,A2Z Inc,1/7/2019,superzoo.py,https://10times.com/superzoo/exhibitors,,,,,
+https://s23.a2zinc.net/clients/mciusa/sla2019/public/MainHall.aspx?ID=437&sortMenu=101000,A2Z Inc,1/7/2019,sla.py,https://10times.com/sla-conference-cleveland,,,,,
+https://www.aapexshow.com/attendee/expo/exhibitor-search/,A2Z Inc,9/7/2019,aapex.py,https://10times.com/aapex,Nov,Aug,Sep,Oct,count=1348
+https://s23.a2zinc.net/clients/corcexpo/naco2019/Public/Exhibitors.aspx?Index=All&ID=3512&sortMenu=103000,A2Z Inc,10/7/2019,naco.py,https://10times.com/naco-conference-and-exposition-las-vegas,,,,,
+https://s23.a2zinc.net/clients/CorcExpo/AOSSM2019/Public/Exhibitors.aspx?Index=All&ID=2721&sortMenu=102001,A2Z Inc,10/7/2019,aossm.py,https://10times.com/aossm-boston,,,,,
+https://s36.a2zinc.net/clients/iaam/vc2019/Public/enter.aspx,A2Z Inc,10/7/2019,ivam.py,https://10times.com/venueconnect-annual-conference-and-trade-show,,,,,
+https://s23.a2zinc.net/clients/CorcExpo/ENA2019/public/Exhibitors.aspx?Index=All,A2Z Inc,12/7/2019,ena.py,https://10times.com/ena-emergency-nursing,Sep,Jun,Jul,Aug,count=182
+https://s23.a2zinc.net/clients/nrwa/wp19/Public/Exhibitors.aspx?Index=All,A2Z Inc,12/7/2019,waterpro.py,https://10times.com/waterpro-conference-nashville,Sep,Jun,Jul,Aug,count=90
+https://drone.a2zinc.net/InterDrone2019/public/exhibitors.aspx?Index=All&ID=18945&sortMenu=101002,A2Z Inc,12/7/2019,interdrone.py,https://10times.com/interdrone,Sep,Jun,Jul,Aug,count=54
+https://s23.a2zinc.net/clients/kpg/Toronto2019/Public/Exhibitors.aspx?Index=All,A2Z Inc,12/7/2019,imats.py,https://10times.com/imats-toronto,Sep,Jun,Jul,Aug,count=34
+https://s23.a2zinc.net/clients/ClarionUX/PhillyGiftSummer2019/Public/exhibitors.aspx?Index=All,A2Z Inc,12/7/2019,giftshow.py,https://10times.com/philadelphia-giftshow,,,,,count=217
+https://jewelry.a2zinc.net/JASummer2019/Public/exhibitors.aspx?Index=All,A2Z Inc,12/7/2019,janewyork.py,https://10times.com/ja-newyork-summershow,,,,,count=294
+https://nss.a2zinc.net/NSSSummer2019/Public/exhibitors.aspx?Index=All,A2Z Inc,12/7/2019,nss.py,https://10times.com/national-stationary-show,,,,,count=93
+https://s23.a2zinc.net/clients/corcexpo/ascm2019/Public/Exhibitors.aspx?Index=All,A2Z Inc,15-07-2019,ascm.py,https://10times.com/apics-lasvegas/exhibitors,Sep,Jun,Jul,Aug,
+https://www.medicalfair-thailand.com/exhibitors.html,Messe Düsseldorf GmbH ,19-07-2019,medicalfair.py,https://10times.com/medical-fair-thailand,Sep,Jun,Jul,Aug,
+https://pizza.a2zinc.net/artisanbakery2020/Public/exhibitors.aspx?,A2Z Inc,19-07-2019,pizzaexpo.py,https://10times.com/iabe-las-vegas,Mar,Dec,Jan,Feb,count=23
+https://pizza.a2zinc.net/PizzaExpo2020/Public/exhibitors.aspx?Index=All,A2Z Inc,19-07-2019,pizza.py,https://10times.com/international-pizza-expo,Mar,Dec,Jan,Feb,count=372
+https://pizza.a2zinc.net/PPNE2019/Public/exhibitors.aspx?Index=All,A2Z Inc,19-07-2019,pizzapasta.py,https://10times.com/pizzaandpastaexpo,,,,,count=171
+https://www.aimex.com.au/for-visitors/exhibitor-directory/#search=lo%3D0%26rpp%3D64%26startRecord%3D257,Reed Exhibition,22-07-2019,amiex.py,https://10times.com/asia-pacific-mining,,,,,count=327
+https://www.pgalasvegas.com/en/Show-Information/Exhibitor-List/?lo=0&rpp=129&startRecord=193#,,,,,,,,,
+https://chem19.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=13369CHEM,Mapyourshow,21-08-2019,chem19.py,https://10times.com/chem-show,Oct,Jul,Aug,Sep,count=198
+https://nabny20.mapyourshow.com/8_0/explore/exhibitor-alphalist.cfm?alpha=*#/,Mapyourshow,21-11-2019,,,,,,,
+https://ahm20.mapyourshow.com/8_0/explore/exhibitor-alphalist.cfm#/,Mapyourshow,21-11-2019,,,,,,,
+https://apa20.mapyourshow.com/8_0/explore/exhibitor-alphalist.cfm#/,Mapyourshow,21-11-2019,,,,,,,
+https://packeast20.mapyourshow.com/8_0/explore/exhibitor-alphalist.cfm#/,Mapyourshow,21-11-2019,,,,,,,

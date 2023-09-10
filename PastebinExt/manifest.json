@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Pastebin Auto Input",
+    "version": "1.0",
+    "description": "Automatically input data into pastebin.com",
+    "permissions": ["scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "host_permissions": [
+      "https://pastebin.com/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }

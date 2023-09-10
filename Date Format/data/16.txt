@@ -1,0 +1,691 @@
+id	name	website	start_date	end_date
+397089	"Banking, Finance & Insurance Expo"	http://www.bfiexpo.pk	2019-10-24	2019-10-26
+326624	Summit Education Initiative - College Attainment Team Meeting	https://seisummit.org/events/college-attainment-team-meeting-january-2020/	2020-01-13	2020-01-13
+8378	International Specialized Exhibition of Shoes and Accessories	https://artexpo.ua/en/index.htm	2020-04-07	2020-04-10
+309708	Brick Lane Gallery Art in Mind	https://thebricklanegallery.com/	2020-01-21	2020-02-03
+349785	Times Union Job Fair	https://www.timesunionjobfair.com/	2020-01-20	2020-01-20
+40678	Glass	https://www.targiglass.pl/pl/targi_glass_w_pigulce/o_targach/	2019-11-20	2019-11-23
+143930	Making Cosmetics	https://www.making-cosmetics.it/	2019-11-20	2019-11-21
+398870	World Cancer Congress	https://worldcancercongress.in/	2019-11-20	2019-11-21
+309827	International Conference on Agricultural and Biological Science	http://iser.co/Conference2019/Japan/10/ICABS/	2019-10-26	2019-10-27
+178434	China International Fashion Fair	http://en.chiconline.com.cn/	2020-03-11	2020-03-13
+309834	"International Conference on Science, Health and Medicine"	http://iser.co/Conference2019/Japan/10/ICSHM/	2019-10-26	2019-10-27
+434075	Lean Six Sigma Green Belt 4-days Bootcamp in New York City	http://www.certificationplanner.com	2019-10-29	2019-11-01
+433949	Lean Six Sigma Black Belt 4-days Bootcamp in Nashville	http://www.certificationplanner.com	2019-11-05	2019-11-08
+433941	Lean Six Sigma Black Belt 4-days Bootcamp in Washington	http://www.certificationplanner.com	2019-10-29	2019-11-01
+422256	"Project Management Professional 4-days Bootcamp in San Francisco, CA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+434294	Lean Six Sigma Green Belt 4-days Bootcamp in Tampa	http://www.certificationplanner.com	2019-10-29	2019-11-01
+433783	Lean Six Sigma Black Belt 4-days Bootcamp in Vancouver	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-05	2019-11-08
+433674	Lean Six Sigma Black Belt 4-days Bootcamp in Honolulu	http://www.certificationplanner.com	2019-11-05	2019-11-08
+434838	Lean Six Sigma Green Belt 4-days Bootcamp in Orange County	http://www.certificationplanner.com	2019-10-29	2019-11-01
+433547	Lean Six Sigma Black Belt 4-days Bootcamp in Palo Alto	http://www.certificationplanner.com	2019-11-05	2019-11-08
+433785	Lean Six Sigma Black Belt 4-days Bootcamp in Edmonton	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Edmonton/8/2/108	2019-11-05	2019-11-08
+433589	Lean Six Sigma Black Belt 4-days Bootcamp in Detroit	http://www.certificationplanner.com	2019-11-05	2019-11-08
+433543	Lean Six Sigma Black Belt 4-days Bootcamp in New York City	http://www.certificationplanner.com	2019-10-29	2019-11-01
+433787	Lean Six Sigma Black Belt 4-days Bootcamp in Calgary	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Calgary/8/2/107	2019-11-05	2019-11-08
+66825	Building & Construction Myanmar	https://www.cpmmyanmar.com/cpmm/2020/en/index.asp	2020-10-21	2020-10-23
+433789	Lean Six Sigma Black Belt 4-days Bootcamp in San Jose	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-05	2019-11-08
+368782	International Conference on Education & Management	https://iaarhies.org/conference-in-london-uk-2/	2019-12-28	2019-12-29
+244623	Vintage Market Days	https://vintagemarketdays.com/market/wichita/event.php?EventId=566	2020-03-13	2020-03-15
+338758	Vintage Market Days	https://vintagemarketdays.com/market/birmingham/event.php?EventId=550	2020-02-28	2020-03-01
+433580	Lean Six Sigma Black Belt 4-days Bootcamp in Saint Paul	http://www.certificationplanner.com	2019-10-29	2019-11-01
+303015	International Conference on Physical & Life Sciences	https://iaarhies.org/icpls-2019-london-uk-2/	2019-12-28	2019-12-29
+422171	"Project Management Professional 4-days Bootcamp in Irvine, CA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+183579	Fort Myers Home & Remodeling Show	https://www.professionalshowmanagement.com/fmhs-winter-2020	2020-01-10	2020-01-12
+434563	Lean Six Sigma Green Belt 4-days Bootcamp in Portland	http://www.certificationplanner.com	2019-10-29	2019-11-01
+369776	Advanced Practice Providers Oncology Summit	https://apponcologysummit.mededmanager.com/store/2019-app-oncology-summit-san-francisco	2020-08-14	2020-08-15
+434673	Lean Six Sigma Green Belt 4-days Bootcamp in Albuquerque	http://www.certificationplanner.com	2019-10-29	2019-11-01
+328492	World Summit AI	http://worldsummit.ai/	2020-10-07	2020-10-08
+140264	Michigan Shoe Market	https://www.michiganshoeshow.com/showdates	2020-02-22	2020-02-24
+433665	Lean Six Sigma Black Belt 4-days Bootcamp in Indianapolis	http://www.certificationplanner.com	2019-10-29	2019-11-01
+422307	"Project Management Professional 4-days Bootcamp in Augusta, ME"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+394353	Hawaii Hemepath Conference	https://www.pathcme.com/	2020-09-14	2020-09-18
+435056	ITIL Foundation 2-days Bootcamp in Lexington	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Lexington/11/1/50	2019-11-07	2019-11-08
+434841	Lean Six Sigma Green Belt 4-days Bootcamp in Palo Alto	http://www.certificationplanner.com	2019-10-29	2019-11-01
+434458	Lean Six Sigma Green Belt 4-days Bootcamp in Memphis	http://www.certificationplanner.com	2019-10-29	2019-11-01
+435417	ITIL Foundation 2-days Bootcamp in Eugene	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Eugene/11/1/31	2019-11-07	2019-11-08
+394372	Hawaii Surgpath Conference	https://www.pathcme.com	2020-09-14	2020-09-18
+433749	Lean Six Sigma Black Belt 4-days Bootcamp in Los Angeles	http://www.certificationplanner.com	2019-10-29	2019-11-01
+435071	ITIL Foundation 2-days Bootcamp in Springfield	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Springfield/11/1/92	2019-11-07	2019-11-08
+200062	Florida Homeschool Convention	https://fpea.com/events/4614/2020-fpea-homeschool-convention	2020-05-21	2020-05-23
+434899	Lean Six Sigma Green Belt 4-days Bootcamp in Winnipeg	http://www.certificationplanner.com	2019-10-29	2019-11-01
+435088	ITIL Foundation 2-days Bootcamp in Wichita	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-07	2019-11-08
+435464	ITIL Foundation 2-days Bootcamp in Greenville	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Greenville/11/1/38	2019-11-07	2019-11-08
+435434	ITIL Foundation 2-days Bootcamp in Providence	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Providence/11/1/74	2019-11-07	2019-11-08
+434296	Lean Six Sigma Green Belt 4-days Bootcamp in Indianapolis	http://www.certificationplanner.com	2019-11-05	2019-11-08
+272207	Dons Fabulous Crystal River Gun Show	http://www.donsfabulouscrystalrivergunshow.com/home.html	2020-02-15	2020-02-16
+434263	Lean Six Sigma Green Belt 4-days Bootcamp in Louisville	http://www.certificationplanner.com	2019-10-29	2019-11-01
+434076	Lean Six Sigma Green Belt 4-days Bootcamp in Boston	http://www.certificationplanner.com	2019-11-05	2019-11-08
+422254	"Project Management Professional 4-days Bootcamp in Jefferson City, MO"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+407776	International Railway Summit	http://www.irits.org/irs8/	2019-11-20	2019-11-22
+317530	Principles of Prevention in Primary Care Practice: Pearls and Pitfalls	http://preventionprinciples.com/	2020-05-17	2020-05-19
+447432	Cosmo Electrical and Power Exhibition	http://www.cosmoexpo2019.com/	2019-11-22	2019-11-24
+434463	Lean Six Sigma Green Belt 4-days Bootcamp in Chihuahua	http://www.certificationplanner.com	2019-11-05	2019-11-08
+28158	SAGSE Latin America Buenos Aires	http://www.monografie.com/eng/	2019-11-20	2019-11-22
+71870	Brighton Jobs Fair	https://www.thejobfairs.co.uk/job-fairs	2020-02-07	2020-02-07
+433862	Lean Six Sigma Black Belt 4-days Bootcamp in Charlotte	http://www.certificationplanner.com	2019-10-29	2019-11-01
+71858	Norwich Jobs Fair	https://www.thejobfairs.co.uk/	2020-11-04	2020-11-04
+447435	Advanced Functional Materials Congress	https://www.advancedmaterialscongress.org/mar20/	2020-03-23	2020-03-25
+447436	World Congress on Infectious Diseases	http://tropicaldiseases.congressseries.com/home	2020-09-14	2020-09-16
+248682	Construction News Summit	https://summit.constructionnews.co.uk/programme-0	2019-12-03	2019-12-04
+378901	Global Banking Transformation Conference	https://c-parity.com/5th-global-banking-transformation-conference/	2020-03-05	2020-03-06
+447166	ICOI World Congress Dallas	https://www.icoi.org/events/	2023-09-28	2023-09-30
+447170	Indian Colloquium on Micropaleontology and Stratigraphy	http://icms2019.com/	2019-11-04	2019-11-06
+447046	AI for CPG Summit Austin	https://www.re-work.co/events/ai-for-cpg-summit-texas-2020	2020-05-21	2020-05-22
+435098	ITIL Foundation 2-days Bootcamp in Toronto	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+305318	Developing Executive Leadership	https://www.amanet.org/training/seminars/developing-executive-leadership.aspx	2019-11-11	2019-11-13
+447077	The International Smoke Symposium	https://www.iawfonline.org/event/3rd-international-smoke-symposium/	2020-04-20	2020-04-24
+447101	Annual Statewide Preservation Conference	https://www.mhpn.org/happenings/annual-conference/	2020-05-14	2020-05-16
+447086	AVETRA Conference	http://avetra.org.au/pages/upcoming-events.html	2020-04-23	2020-04-24
+447096	Quality and Sustainability in ELT Conference	https://www.englishnewzealand.co.nz/conference.php	2019-11-22	2019-11-23
+447178	International Conference on Emerging Trends in Catalysis	https://vit.ac.in/etc/welcome-msg.html	2020-01-06	2020-01-08
+447437	International Conference on Industrial Biotechnology and Bioprocessing	http://industrial-biotechnology.alliedacademies.com/	2020-02-17	2020-02-18
+57739	Illinois Education & Technology Conference	http://www.il-edtech.org/	2019-11-13	2019-11-15
+447136	International Conference on Ecomaterials	http://www.icem14.org/	2020-02-05	2020-02-07
+447185	Region V Head Start Conference	https://www.memberleap.com/members/evr/reg_event.php?orgcode=OHSA&evid=16958595	2019-11-12	2019-11-15
+446872	International Conference on Dam Safety Management and Engineering	https://icdsme2019.mycold.mncold.org.my/index.php	2019-11-19	2019-11-21
+447439	International Conference on Resources and Environment Sciences	http://www.icres.org/	2020-06-05	2020-06-07
+447440	The International Conference on Chemical Materials and Process	http://www.iccmp.org	2020-07-02	2020-07-04
+447441	World Obesity and Weight Management Congress	https://www.obesityworldconference.com/	2020-10-26	2020-10-28
+434960	Lean Six Sigma Green Belt 4-days Bootcamp in Ottawa	http://www.certificationplanner.com	2019-11-05	2019-11-08
+304628	PERE Global Investor Forum	https://www.peievents.com/en/event/pere-investor-forum-seoul-2019/	2019-11-20	2019-11-20
+447442	Global Conference on Plastic Aesthetic and Reconstructive Surgery	https://plasticsurgeryconferences.com/	2020-06-25	2020-06-26
+433034	"Project Management Professional 4-days Bootcamp in Orlando, FL"	http://www.certificationplanner.com	2019-10-29	2019-11-01
+299065	Editions Artists Books Fair	http://eabfair.org/about/	2019-10-24	2019-10-27
+434674	Lean Six Sigma Green Belt 4-days Bootcamp in Charlotte	http://www.certificationplanner.com	2019-11-05	2019-11-08
+422210	"Project Management Professional 4-days Bootcamp in Denver, CO"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+443174	ICPM Discussion Forum	https://icpmnetwork.com/company/roster/companyRosterDetails.html?companyId=18724&companyRosterId=77	2019-10-27	2019-10-29
+364018	Skin Microbiome Congress	https://skinmicrobiomecongress.com/events/skin-microbiome-east-2020#events	2020-05-19	2020-05-20
+435484	ITIL Foundation 2-days Bootcamp in Spokane	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+388765	Customer Contact West	https://www.customercontactmindxchange.com/west19/?eID=1755	2019-10-27	2019-10-30
+336827	International Conference on Natural Science and Environment	http://theiier.org/Conference2020/SaudiArabia/2/ICNSE/	2020-03-28	2020-03-29
+434410	ITIL Foundation 2-days Bootcamp in Palo Alto	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+151993	East Bay Mini Maker Faire	https://eastbay.makerfaire.com/	2019-10-27	2019-10-27
+328717	International Research-to-Practice Conference	http://conferences.nis.edu.kz/?page_id=6422&lang=en	2019-10-24	2019-10-25
+433944	Lean Six Sigma Black Belt 4-days Bootcamp in Raleigh	http://www.certificationplanner.com	2019-10-29	2019-11-01
+340877	RMLA Conference & Trade Show	http://rmla.org/2020-rmla-conference/	2020-05-11	2020-05-14
+433911	Lean Six Sigma Black Belt 4-days Bootcamp in Charleston	http://www.certificationplanner.com	2019-10-29	2019-11-01
+328344	"International Conference on Electrical, Electronics and Communication Engineering"	http://ifiad.in/Conference/2020/May/17th-Bengaluru-ICEECE/index.html	2020-05-17	2020-05-17
+434677	Lean Six Sigma Green Belt 4-days Bootcamp in Wichita	http://www.certificationplanner.com	2019-10-29	2019-11-01
+328357	International Conference on Recent Trends in Engineering and Technology	http://ifiad.in/Conference/2020/Dec/13th-Thane-ICRTET/index.html	2020-12-13	2020-12-13
+328636	"International Conference on Advances in Sciences, Engineering & Management"	http://ifiad.in/Conference/2020/Dec/13th-Nashik-ICASEM/index.html	2020-12-13	2020-12-13
+435453	ITIL Foundation 2-days Bootcamp in Columbia	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-07	2019-11-08
+439242	Driving FDI through PPPs Roundtable	http://www.uzbekppp.com	2020-02-04	2020-02-05
+435429	ITIL Foundation 2-days Bootcamp in Cincinnati	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Cincinnati/11/1/21	2019-11-07	2019-11-08
+231178	Newcastle Upon Tyne Vegan Festival & Expo	https://veganfestival.co.uk/category/events/	2019-10-27	2019-10-27
+362303	Cape Holiday Show	https://www.capeholidayshow.co.za/	2019-10-25	2019-10-27
+100465	Galena Country Fair	http://www.galenacountryfair.com	2020-10-10	2020-10-11
+219575	Automation Fair	https://events.rockwellautomation.com/profile/form/index.cfm?PKformID=0x72182abcd	2019-11-20	2019-11-21
+422350	"Project Management Professional 4-days Bootcamp in Louisville, KY"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+252071	Harwich International Sea Shanty Festival	http://harwichshantyfestival.co.uk/	2020-10-08	2020-10-11
+435492	ITIL Foundation 2-days Bootcamp in Helena	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Helena/11/1/40	2019-11-07	2019-11-08
+121616	Adams Antiques Fairs	https://www.adamsantiquesfairs.com/fair-dates/nov2019	2019-11-10	2019-11-10
+398147	ExoticBird Mart & Expo Fremont	http://exoticbirdmart.com/upcoming-shows/	2019-10-27	2019-10-27
+291045	Mind Body Spirit Festival Freeport	http://www.mindbodyspiritfestival.org/festival-dates-locations/	2020-10-11	2020-10-11
+344334	IDC IT Forum	https://www.idc.com/mea/events/66404-idc-it-forum-2019	2019-12-09	2019-12-09
+233218	Humber Liberal Arts IFOA Conference	https://liberalarts.humber.ca/current-students/resources/conferences-and-lectures/liberal-arts-ifoa-conference.html	2019-10-26	2019-10-27
+434565	Lean Six Sigma Green Belt 4-days Bootcamp in Atlanta	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Atlanta/9/1/4	2019-10-29	2019-11-01
+135032	"International Conference on Electrical, Electronics & Communication Engineering"	http://sarc.net.in/Conference2019/11/Pune/1/ICECE/	2019-11-10	2019-11-10
+417089	International Conference on Election and Democracy	http://electionanddemocracyconference.globalacademicresearchinstitute.com/	2020-06-05	2020-06-05
+417080	International Conference on Business Management & Law	http://businesslawconference.globalacademicresearchinstitute.com/	2020-06-05	2020-06-05
+344823	Auckland Brick Show	http://www.aucklandbrickshow.co.nz/	2019-10-26	2019-10-27
+435467	ITIL Foundation 2-days Bootcamp in Knoxville	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Knoxville/11/1/48	2019-11-07	2019-11-08
+420880	Advancing Academics Conference	http://events.esc13.net/advac/	2020-07-08	2020-07-09
+297803	Girls World Expo Harrisburg	https://www.girlsworldexpo.com/expos/harrisburg/	2019-10-27	2019-10-27
+265382	Illinois Orchid Society Spring Show & Sale	http://illinoisorchidsociety.nationbuilder.com/calendar	2019-11-10	2019-11-10
+433572	Lean Six Sigma Black Belt 4-days Bootcamp in St Louis	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Saint-Louis/8/1/81	2019-11-05	2019-11-08
+270760	Florida Hardware Dealer Market	http://www.floridahardware.com/dealermarket/	2020-02-22	2020-02-23
+421161	Project Management in the Technology Sector Seminar	https://www.apm.org.uk/apm-wipm-conference/	2019-10-26	2019-10-26
+246032	Mexico EDUEXPOS	https://www.fppedu.media/events	2020-02-15	2020-02-16
+102007	EnBau	http://www.afag.de/de/messetermine/details/news/enbau.html	2019-10-26	2019-11-03
+217918	Multidisciplinary Earth Science Symposium	http://www.mess-earth.org/venue.html	2020-09-07	2020-09-11
+435426	ITIL Foundation 2-days Bootcamp in Pittsburgh	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Pittsburgh/11/1/72	2019-11-07	2019-11-08
+433596	Lean Six Sigma Black Belt 4-days Bootcamp in Augusta	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-05	2019-11-08
+231396	Kane County Fair	http://www.kanecountyfair.com/Events	2020-07-15	2020-07-19
+313682	MGM Fairs Dolls House and Miniature Fair	https://mgmfairs.co.uk/dolls_house_fairs_2019.html	2020-05-16	2020-05-16
+435093	ITIL Foundation 2-days Bootcamp in Topeka	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Topeka/11/1/94	2019-11-07	2019-11-08
+434842	Lean Six Sigma Green Belt 4-days Bootcamp in Vancouver	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Vancouver/9/2/117	2019-10-29	2019-11-01
+426893	World Data Summit	https://worlddatasummit.com/	2020-10-01	2020-10-02
+356728	Data Center Technologies Summit	http://www.dctsummit.com/index.php	2019-11-16	2019-11-16
+422134	"Project Management Professional 4-days Bootcamp in Columbus, OH"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+285603	Craft Fair	https://festivalnet.com/77444/Windham-New-Hampshire/Craft-Shows/Windham-High-School-Holiday-Craft-Fair	2019-10-26	2019-10-26
+118289	Climate Engineering Conference	https://www.ce-conference.org/faq	2020-10-06	2020-10-09
+433863	Lean Six Sigma Black Belt 4-days Bootcamp in Edison	http://www.certificationplanner.com	2019-10-29	2019-11-01
+428067	Sisters in Travel Conference	https://www.sistersintravelconference.com/	2019-10-26	2019-10-26
+453	Fitness Show Melbourne	https://fitness-show.com.au/melbourne	2019-10-26	2019-10-27
+434299	ITIL Foundation 2-days Bootcamp in Scottsdale	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+435225	ITIL Foundation 2-days Bootcamp in Ottawa	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Ottawa/11/2/112	2019-11-07	2019-11-08
+321734	Elite Wedding Expo	https://eliteweddingexpo.com/	2020-11-01	2020-11-01
+276035	Tattoo Bash Koln	http://www.tattoobash.de/?id=109	2019-10-26	2019-10-27
+56746	IHACI HVAC/R /SM Performance Contracting Product and Equipment Trade Show	http://www.ihaci.org/trade-show/	2019-11-20	2019-11-20
+434265	Lean Six Sigma Green Belt 4-days Bootcamp in Baton Rouge	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Baton-Rouge/9/1/8	2019-11-05	2019-11-08
+438891	Cracow Conference of Psychology and Law	http://www.psychologiasadowa.pl/en/	2019-10-26	2019-10-27
+105151	Great Bridal Expo Houston	https://greatbridalexpo.com/event/houston-texas-10-26-19/	2019-10-26	2019-10-26
+166128	San Diego Technology Executive Leadership Summit	https://hmgstrategy.com/events/upcoming-summits/2019/11/05/default-calendar/2019-san-diego-technology-executive-leadership-summit	2019-11-05	2019-11-05
+328857	ShishaMesse meets VaporFair	http://shishamesse.de/berlin/	2019-10-26	2019-10-27
+447457	European Congress on Pharma and Pharmaceutical Sciences	https://european-pharma.pulsusconference.com/	2020-03-16	2020-03-17
+447459	The International Conference on Chemistry and Chemical Engineering	http://www.iccce.org	2020-07-02	2020-07-04
+435231	ITIL Foundation 2-days Bootcamp in Vancouver	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Vancouver/11/2/117	2019-11-07	2019-11-08
+405473	Middle East Molecular Biology Congress & Exhibition	http://membs.org/membs/congress#f	2019-11-13	2019-11-16
+433601	Lean Six Sigma Black Belt 4-days Bootcamp in Shreveport	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Shreveport/8/1/89	2019-11-05	2019-11-08
+422482	"Project Management Professional 4-days Bootcamp in Spokane, WA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+447460	International HealthcareCongress	http://healthcare-medicine.pulsusconference.com/	2020-07-01	2020-07-02
+435419	ITIL Foundation 2-days Bootcamp in Portland	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Portland/11/1/73	2019-11-07	2019-11-08
+422172	"Project Management Professional 4-days Bootcamp in Los Angeles, CA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+397003	China Animal Husbandry and Feed Industry Expo	http://www.xnxmz.com	2020-08-27	2020-08-28
+44010	Haus Bau Messe - Vosendorf	http://www.hausbaumesse.at/allemessen.php	2019-11-15	2019-11-17
+120996	Federal Financial Systems Summit	https://www.agacgfm.org/FSS/FSS-Home.aspx	2020-01-09	2020-01-09
+110143	International Youth Leadership Conference	http://www.iylc.com/dubai/	2019-11-16	2019-11-21
+447463	Pak Central Asia Health Expo	http://www.asiahealthexpo.com	2019-11-09	2019-11-10
+434962	Lean Six Sigma Green Belt 4-days Bootcamp in Mississauga	http://www.certificationplanner.com	2019-10-29	2019-11-01
+372929	Mommy & Baby Fair	https://mommybabyfair.com	2020-08-24	2020-08-26
+435421	ITIL Foundation 2-days Bootcamp in Philadelphia	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Philadelphia/11/1/69	2019-11-07	2019-11-08
+434843	Lean Six Sigma Green Belt 4-days Bootcamp in Regina	http://www.certificationplanner.com	2019-10-29	2019-11-01
+241073	Newcomers Festival	https://newcomers-network.de/newcomers-festival/	2020-09-13	2020-09-13
+378062	The East Anglian Winter Fair	https://www.classicfestivals.co.uk/shows	2019-11-16	2019-11-17
+434965	Lean Six Sigma Green Belt 4-days Bootcamp in Mexico City	http://www.certificationplanner.com	2019-10-29	2019-11-01
+193009	India Investment Conference	https://indiaconf.cfainstitute.org/	2020-01-09	2020-01-09
+435408	ITIL Foundation 2-days Bootcamp in Greensboro	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Greensboro/11/1/37	2019-11-07	2019-11-08
+435102	ITIL Foundation 2-days Bootcamp in San Francisco	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/San-Francisco/11/1/85	2019-11-07	2019-11-08
+196477	Gulf Coast Faith Formation Conference	https://go4th.faith/	2020-01-09	2020-01-11
+447468	Mungo Products Demo by Hobson Engineering	http://wds.com.au	2019-10-15	2019-10-15
+239450	ICT Cluster & SME Matchmaking Mission to Japan	https://www.eu-japan.eu/events/ict-cluster-sme-mission	2019-11-19	2019-11-22
+375218	SemIsrael Expo	https://www.semisrael-expo.com/	2019-11-19	2019-11-19
+435040	ITIL Foundation 2-days Bootcamp in Reno	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Reno/11/1/77	2019-11-07	2019-11-08
+391518	International Symposium on Engineering and Natural Sciences	http://www.iseans.org/site/page.aspx?pid=901&sid=6035&lang=en	2019-11-19	2019-11-22
+434680	Lean Six Sigma Green Belt 4-days Bootcamp in Quebec City	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Quebec-City/9/2/113	2019-10-29	2019-11-01
+404989	Companies Vs Climate Change	https://europe.solveclimatechange.com/	2019-11-19	2019-11-20
+360531	Strata Data Conference	https://conferences.oreilly.com/strata	2020-09-14	2020-09-17
+447469	SomNOG Workshops & Conference	https://somnog.so	2019-10-19	2019-10-25
+424847	She Trades Global	http://www.intracen.org/itc/events/world-export-development-forum/	2019-11-19	2019-11-19
+117956	Task-Based Learning and Teaching in Asia	https://tblsig.org/conf/	2020-06-20	2020-06-21
+16799	Welding Monitoring And Diagnostics	https://www.uv66.ru/vystavka/ekaterinburg/2019/svarka-kontrol-i-diagnostika/	2019-11-19	2019-11-21
+435409	ITIL Foundation 2-days Bootcamp in Bismarck(12-Sept)	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Bismarck/11/1/9	2019-11-07	2019-11-08
+339262	The HR Congress	http://brussels.hr-congress.com/	2019-11-19	2019-11-20
+435099	ITIL Foundation 2-days Bootcamp in Winnipeg	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Winnipeg/11/2/118	2019-11-07	2019-11-08
+31194	Asean Ports & Shipping Indonesia	http://www.transportevents.com/ForthcomingEventsdetails.aspx?EventID=EVE163	2020-02-25	2020-02-27
+435411	ITIL Foundation 2-days Bootcamp in Cleveland	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Cleveland/11/1/22	2019-11-07	2019-11-08
+336393	Whitby Job Fair	http://www.jobscanadafair.com/TORONTO-JOB-FAIR-November-18th-2019-s/1785.htm	2019-11-18	2019-11-18
+435468	ITIL Foundation 2-days Bootcamp in Memphis	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Memphis/11/1/56	2019-11-07	2019-11-08
+390608	CIO Conference New York	https://www.inspiredbusinessmedia.com/event/cio-newyork-november-2019/	2019-11-19	2019-11-19
+447476	Arduino Workshop: (Advanced)	https://www.talentattraction.co.za/	2020-01-18	2020-01-18
+401558	CMO Conference NYC	https://www.inspiredbusinessmedia.com/event/cmo-newyork-november-2019/	2019-11-19	2019-11-19
+447479	Arduino Workshop: (Getting started)	https://www.talentattraction.co.za/	2020-01-11	2020-01-11
+435107	ITIL Foundation 2-days Bootcamp in Cedar Rapids	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Cedar-Rapids/11/1/15	2019-11-07	2019-11-08
+422900	FEG Annual General Meeting and European Tourist Guide Meeting	https://feg-meeting.com/main-meeting/	2019-11-19	2019-11-24
+429116	Lean Six Sigma Green Belt Certification Training Course in Paris France	https://unichrone.com/fr/courses/quality-management/lean-six-sigma-green-belt-certification-training/paris	2019-11-19	2019-11-22
+447480	ESP32 IOT Workshop (Advanced)	https://www.talentattraction.co.za/	2020-01-25	2020-01-25
+334322	Pickering Job Fair	http://www.jobscanadafair.com/TORONTO-JOB-FAIR-November-18th-2019-s/1785.htm	2019-11-18	2019-11-18
+435416	ITIL Foundation 2-days Bootcamp in Tulsa	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Tulsa/11/1/96	2019-11-07	2019-11-08
+14170	Smart Engineering Japan	https://www.jma.or.jp/set/en/	2019-11-20	2019-11-22
+115326	Moody’s Analytics Trade and Commodity Finance Masterclass	https://www.moodysanalytics.com/public-courses/moodys-analytics-trade-and-commodity-finance-masterclass	2019-11-20	2019-11-22
+433545	Lean Six Sigma Black Belt 4-days Bootcamp in Albany	http://www.certificationplanner.com	2019-10-29	2019-11-01
+435414	ITIL Foundation 2-days Bootcamp in Oklahoma City	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Oklahoma-City/11/1/63	2019-11-07	2019-11-08
+179599	Reboot Infogamer	https://www.zv.hr/fairs-2863/2863	2019-11-12	2019-11-17
+239101	Shetland Wool Week	https://www.shetlandwoolweek.com/	2020-09-26	2020-10-04
+125609	Gold Placers	http://expo72.ru/vistavki/2020/	2020-02-19	2020-02-23
+244334	Brampton Model Railway Show	https://railwaypages.com/event/940971/322561461/brampton-20th-model-railway-show	2020-10-03	2020-10-04
+71418	Salons Mer & Vigne et Gastronomie Strasbourg	https://www.mer-et-vigne.fr/salons/salon-de-printemps-de-strasbourg-wacken-hall-7-1	2020-04-03	2020-04-06
+123106	Photo Fairs Shanghai	https://www.photofairs.org/	2020-09-18	2020-09-20
+66129	Symposium on Advanced Wound Care Fall	https://www.sawcfall.com/future-meetings	2020-10-30	2020-11-01
+281353	Just Between Friends Middletown and Dover	http://wilmington.jbfsale.com/homeView.jsp	2019-11-16	2019-11-17
+250513	Bellville Street Fair	http://www.bellvillestreetfair.org/	2020-09-16	2020-09-19
+422477	"Project Management Professional 4-days Bootcamp in Charlottesville, VA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+264195	Indonesia International Safety Security & Fire Protection Expo	http://www.tpmi-expo.com/issf-expo	2019-11-20	2019-11-21
+307812	Libelle Winter Fair	https://libellewinterfair.be/	2019-11-20	2019-11-24
+435203	ITIL Foundation 2-days Bootcamp in Quebec City	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Quebec-City/11/2/113	2019-11-07	2019-11-08
+422209	"Project Management Professional 4-days Bootcamp in Colorado Springs, CO"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+433872	Lean Six Sigma Black Belt 4-days Bootcamp in Cleveland	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Cleveland/8/1/22	2019-11-05	2019-11-08
+434975	ITIL Foundation 2-days Bootcamp in Lincoln	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Lincoln/11/1/51	2019-11-07	2019-11-08
+361867	Internet of Things	https://www.iot-konferenz.de/home.html	2019-11-20	2019-11-21
+422170	"Project Management Professional 4-days Bootcamp in Fresno, CA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+435032	ITIL Foundation 2-days Bootcamp in Edison	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Edison/11/1/30	2019-11-07	2019-11-08
+383133	World Congress on Petroleum and Fuels	https://www.petroleumfuelmeet.com/index.php	2019-11-20	2019-11-21
+228001	Agile Prague	https://agileprague.com/	2020-09-14	2020-09-16
+421995	"BROADNETS- International Conference on Broadband Communications, Networks, and Systems"	http://broadnets.org/venue/	2019-10-27	2019-10-28
+435224	ITIL Foundation 2-days Bootcamp in Montreal	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Montreal/11/2/111	2019-11-07	2019-11-08
+390686	Coverings & Surfacing Expo North Africa	https://www.coverings-surfacing.com/	2019-11-20	2019-11-22
+433586	Lean Six Sigma Black Belt 4-days Bootcamp in Grand Rapids	http://www.certificationplanner.com	2019-10-29	2019-11-01
+410490	World Congress on Food and Nutrition	http://riconferences.com/food-nutrition.php	2019-11-20	2019-11-21
+351978	Canadian Fintech Summit	https://fintechsummit.ca/	2020-04-21	2020-04-23
+435038	ITIL Foundation 2-days Bootcamp in Las Vegas	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Las-Vegas/11/1/49	2019-11-07	2019-11-08
+422343	"Project Management Professional 4-days Bootcamp in Lexington, KY"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+178471	Gem Jewelry Mineral And Rock Show	http://sacgemshow.com/	2019-10-26	2019-10-27
+422342	World Congress on Pharmaceutical Sciences	https://coalesceresearchgroup.com/pharmaceuticalsciences/	2019-11-20	2019-11-21
+399268	Jakarta Smart Living Expo	http://jsmart.mediaproevent.id/	2019-11-27	2019-11-29
+421603	Voice of Blockchain	https://voiceofblockchain.com/	2020-10-05	2020-10-06
+434479	Lean Six Sigma Green Belt 4-days Bootcamp in Pierre	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+433874	Lean Six Sigma Black Belt 4-days Bootcamp in Columbus	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Columbus/8/1/25	2019-11-05	2019-11-08
+1948	InfoSecurity Russia	https://www.groteck.com/trade-shows	2019-11-20	2019-11-22
+20562	Subcontracting	https://www.easyfairs.com/subcontracting-2019/subcontracting-2019/	2019-11-20	2019-11-21
+406048	Sacramento Safety & Health Summit	https://www.sacramentosafety.com/	2020-10-06	2020-10-06
+405521	Ceramix Expo	https://www.ceramixexpo.com/	2019-11-21	2019-11-24
+121960	Agro-Sphere	http://expo-odessa.com/en/exhibitions#	2019-11-20	2019-11-22
+422131	"Project Management Professional 4-days Bootcamp in Charlotte, NC"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+435229	ITIL Foundation 2-days Bootcamp in Halifax	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Halifax/11/2/109	2019-11-07	2019-11-08
+256513	Tennessee Federal Tax Conference	https://www.tscpa.com/cpe/events/045078MB:tennessee-federal-tax-conference	2019-11-20	2019-11-22
+433877	Lean Six Sigma Black Belt 4-days Bootcamp in Oklahoma City	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Oklahoma-City/8/1/63	2019-11-05	2019-11-08
+422246	"Project Management Professional 4-days Bootcamp in Lincoln, NE"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+306822	Kunststoffe Automotive Powertrain	https://www.hanser-tagungen.de/kunststoffe-automotive	2019-11-20	2019-11-21
+435074	ITIL Foundation 2-days Bootcamp in Baltimore	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+433763	Lean Six Sigma Black Belt 4-days Bootcamp in Quebec City	http://www.certificationplanner.com	2019-10-29	2019-11-01
+328650	International Academic Conference on Engineering and Technology	http://ifiad.in/Conference/2019/October/27th-Nagpur-IACET/index.html	2019-10-27	2019-10-27
+447493	International Conference on Urology and Renal Health	https://urology-renalhealth.pulsusconference.com/	2020-05-11	2020-05-12
+432928	"Project Management Professional 4-days Bootcamp in Orange County, CA"	http://www.certificationplanner.com	2019-11-05	2019-11-08
+339300	Eddy K Trunk Show	https://eddyk.com/event/rashawnrose-bridal-and-prom/	2020-04-04	2020-04-12
+447494	Asia Pacific Conference on Finance and Economics	http://www.apcfeconference.com	2019-11-09	2019-11-09
+429961	Art Mela Exhibition	https://artforchange.space	2020-02-23	2020-03-08
+319381	HR Champions	http://www.hrcforum.net	2019-11-27	2019-11-28
+447496	International Conference on Internet and World Wide Web	http://www.iciwww.com	2019-11-09	2019-11-09
+433880	Lean Six Sigma Black Belt 4-days Bootcamp in Tulsa	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Tulsa/8/1/96	2019-11-05	2019-11-08
+447499	Asia Pacific Conference on Software and Applications	http://www.apcsaconference.com	2019-11-09	2019-11-09
+331919	Eddy K Trunk Show	https://eddyk.com/event/donnas-bridal-6/	2019-12-07	2019-12-15
+435232	ITIL Foundation 2-days Bootcamp in Edmonton	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Edmonton/11/2/108	2019-11-07	2019-11-08
+422480	"Project Management Professional 4-days Bootcamp in Nashville, TN"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+373837	Humberside Expo	http://www.humbersideexpo.co.uk/	2019-11-20	2019-11-20
+433882	Lean Six Sigma Black Belt 4-days Bootcamp in Eugene	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Eugene/8/1/31	2019-11-05	2019-11-08
+383170	World Dental Congress	https://www.worlddentalmeet.com/index.php	2019-11-20	2019-11-21
+318725	Eddy K Trunk Show	https://eddyk.com/event/blu-ivory-bridal-3/	2019-12-07	2019-12-15
+408535	Chief Information Officer Summit	https://daleadershipinstitute.com/events/chief-information-officer-summit-long-beach/	2019-11-20	2019-11-22
+412607	Procurement and Supply Chain Management for Energy Companies	http://www.marcusevans-conferences-paneuropean.com/marcusevans-conferences-event-details.asp?EventID=25410&SectorID=3&utm_source=Event%20Listing&utm_medium=10times&utm_campaign=OG328%20-%20Event%20Listing#.XPETThYzbct	2019-11-20	2019-11-22
+414830	International Conference on Biotechnology and Genetic Engineering	https://biotechnologyconferences.org	2019-11-21	2019-11-23
+447500	Menaa Award	http://www.menaa.org	2019-10-30	2019-10-30
+433884	Lean Six Sigma Black Belt 4-days Bootcamp in Portland	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Portland/8/1/73	2019-11-05	2019-11-08
+422380	International Conference on Advanced Nanotechnology and Nanomaterials	https://coalesceresearchgroup.com/nanomaterials/	2019-11-20	2019-11-21
+433913	Lean Six Sigma Black Belt 4-days Bootcamp in Florence	http://www.certificationplanner.com	2019-10-29	2019-11-01
+351145	Fitfair	https://fitfairjaarbeurs.nl/	2019-11-22	2019-11-23
+339393	Eddy K Trunk Show	https://eddyk.com/event/rashawnrose-bridal-and-prom/	2020-04-04	2020-04-12
+140544	INDUSTRY OF BEAUTY	http://www.expo.zp.ua/index.php?option=com_content&view=article&id=922&Itemid=890	2019-11-21	2019-11-23
+412729	Project Management Professional Classroom Training in Auburn	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Auburn/12/1/5	2019-11-05	2019-11-08
+165632	Behavioural Health Safety	https://axiomgroupe.com/index.php/conferences-2.html	2019-11-21	2019-11-22
+237796	RecExpo	http://www.rec-expo.net/	2020-03-12	2020-03-14
+223720	Mercato Dei Vini Dei vignaioli Indipendenti	https://www.piacenzaexpo.it/event-category/piacenza-expo/	2019-11-23	2019-11-25
+339398	Eddy K Trunk Show	https://eddyk.com/event/kora-brides-6/	2020-03-07	2020-03-15
+389631	International Conference on Recent Developments in Social Science and Business Management	http://issrd.org/Conference2019/11/Mumbai/ICRDSSBM/	2019-11-10	2019-11-10
+15456	Scottish Wedding Show	https://www.thescottishweddingshow.com/#	2020-02-22	2020-02-23
+148891	Los Angeles Digital Government Summit	https://www.govtech.com/events/	2020-08-20	2020-08-20
+216042	Verona Legend Cars	https://www.veronafiere.it/en/calendar/exhibitions-and-events-italy-2020/?id=9710	2020-05-09	2020-05-10
+23347	Ferrara Militaria	https://www.ferrara-militaria.com	2020-02-15	2020-02-16
+22633	Barn Star's Antiques at Rhinebeck	http://barnstar.com/	2020-10-10	2020-10-11
+226808	BIS-Bouw & Immo	https://www.bisbeurs.be	2020-10-10	2020-10-18
+113328	Auto Motor Show	https://www.proforumgmbh.de/messen/auto-motor-schau/	2020-04-26	2020-04-26
+19844	Art Verona	https://www.veronafiere.it/en/calendar/exhibitions-and-events-italy-2020/?id=10059	2020-10-16	2020-10-18
+44369	Auto-Motor-Show Erftstadt Liblar	https://www.proforumgmbh.de/messen/auto-motor-schau/	2020-04-26	2020-04-26
+394646	International Conference on Multidisciplinary Academic Research	https://apiar.org.au/?conference=2nd-global-conference-on-multidisciplinary-academic-research-gcmar-2019-bali-indonesia	2019-11-23	2019-11-24
+245370	National Vintage Wedding Show Manchester	https://www.magpiewedding.com/ethical-wedding-show-manchester/	2020-03-29	2020-03-29
+1664	Gem Faire-Costa Mesa	https://gemfaire.com/event/costa-mesa-ca-19/	2019-12-06	2019-12-08
+26208	Premier Bridal Show	http://www.premierbridalshows.com/show-dates.html	2020-01-04	2020-01-05
+279290	Noosa Tax Intensive	https://www.taxinstitute.com.au/nti	2019-11-21	2019-11-22
+447501	ConsenSys + WWF present Impactio	https://sparkfestival.co/2019-program/view/343/impactio-scaling-impact-through-technology	2019-10-24	2019-10-24
+31271	Pomona Fall Home Show	http://homeshowconsultants.com/	2020-10-09	2020-10-11
+422293	"Project Management Professional 4-days Bootcamp in Grand Rapids, MI"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+68465	The Pomona Home & Backyard Show	http://homeshowconsultants.com/	2020-07-31	2020-08-02
+17340	"North American Jewelry, Gift & Accessory Show- Mcallen"	http://www.nashows.com/	2019-11-22	2019-11-24
+334634	Steel Markets Asia Conference	https://www.spglobal.com/platts/en/events/apac/steel-markets-conference/summary	2019-11-21	2019-11-22
+426163	Bacx India	http://www.bacxindia.in	2019-11-16	2019-11-18
+434580	Lean Six Sigma Green Belt 4-days Bootcamp in Saskatoon	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Saskatoon/9/2/115	2019-11-05	2019-11-08
+422207	Project Management Professional	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Montreal/12/2/111	2019-10-29	2019-11-01
+377579	India International Furniture Fair	http://www.iiffmumbai.com	2019-11-21	2019-11-24
+434581	Lean Six Sigma Green Belt 4-days Bootcamp in Montreal	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Montreal/9/2/111	2019-11-05	2019-11-08
+419710	USA Green Card EB-5 Investors Seminar	http://www.usa-rc.com	2019-10-15	2019-11-04
+155202	London Gas & LNG Forum	https://www.usenergystream.com/forums/forums-seminars/6th-london-gas-lng-forum-2020.aspx	2019-10-16	2019-10-17
+434702	Lean Six Sigma Green Belt 4-days Bootcamp in Halifax	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Halifax/9/2/109	2019-11-05	2019-11-08
+419707	USA Green Card EB-5 Investors Seminar	http://www.usa-rc.com	2019-10-15	2019-11-04
+443125	USA Green Card EB-5 Investors Seminar	http://www.usa-rc.com	2019-10-15	2019-11-04
+435095	ITIL Foundation 2-days Bootcamp in Atlanta	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+112384	Hand Hobby Crea Days	https://www.handhobbycreadagen.nl/	2019-11-22	2019-11-24
+435227	ITIL Foundation 2-days Bootcamp in Mississauga	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+408565	International conference on Dentistry and Oral Health	https://oralhealthconferences.org/	2019-11-21	2019-11-22
+111814	Enhancing the Skills of Training Coordinators & Administrators Dubai	http://www.euromatech.com/seminars/enhancing-the-skills-of-training-coordinators-and-administrators	2020-06-07	2020-06-11
+447504	"International Conference & Exhibition on ""Corrosion Management"""	http://icecm.in	2020-04-17	2020-04-18
+267831	International Conference on Medical Medicine and Health Sciences	https://academicfora.com/mmhs-november-11-12-2019-bangkok-thailand/	2019-11-11	2019-11-12
+380011	AFES Congress	http://endo-society.org.ph/20th-afes-congress-2019/	2019-11-21	2019-11-23
+384863	Pharma Market Access - Pricing & Reimbursement Summit	https://qepler.com/events/pharma-market-access-pricing-and-reimbursement-summit-2019.html	2019-11-21	2019-11-22
+435113	ITIL Foundation 2-days Bootcamp in Boise	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+397320	Nigeria Travel Week	http://www.nigeriatravelweek.com	2019-11-21	2019-11-23
+447505	Lego Serious Play Facilitator Certification Training	http://seriousplay.training/training-schedule/australia-and-new-zealand/	2019-11-18	2019-11-21
+433915	Lean Six Sigma Black Belt 4-days Bootcamp in Pierre	http://www.certificationplanner.com	2019-10-29	2019-11-01
+422348	"Project Management Professional 4-days Bootcamp in Baton Rouge, LA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+421391	International Conference on Wireless & Mobile Networks	https://cseit2019.org/wimone/index.html	2019-11-23	2019-11-24
+331079	Pacific Rim Conference on Ceramic and Glass Technology	https://ceramics.org/event/13th-pacific-rim-conference-on-ceramic-and-glass-technology-pacrim-13	2019-10-27	2019-10-31
+174913	Fraud and Corruption in the Workplace	http://www.euromatech.com/seminars/fraud-and-corruption-in-the-workplace	2020-10-25	2020-10-29
+434070	Lean Six Sigma Green Belt 4-days Bootcamp in Guanajuato	http://www.certificationplanner.com	2019-11-05	2019-11-08
+433916	Lean Six Sigma Black Belt 4-days Bootcamp in Rapid City	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Rapid-City/8/1/76	2019-10-29	2019-11-01
+409237	Anthill Inside	https://hasgeek.com/anthillinside/2019/	2019-11-23	2019-11-23
+422572	"Project Management Professional 4-days Bootcamp in Helena, MT"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+249656	"International Conference on Business, Economics, Social Science & Humanities"	https://academicfora.com/bessh-bangkok-thailand-november-11-12-2019/	2019-11-11	2019-11-12
+447506	Global Chemical Application Conference in Oil & Gas Industries	http://gcac.co.in	2020-05-29	2020-05-30
+447507	World Nursing Education Conference	https://nursingeducation.nursingconference.com/asia-pacific/	2020-04-15	2020-04-16
+434980	ITIL Foundation 2-days Bootcamp in Saint Paul	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+447508	"International Conference on Science, Health and Engineering"	https://sciencefather.com/1st-international-conference-on-science-health-and-engineering/	2019-12-07	2019-12-08
+174914	"Mastering Communication, Negotiation and Presentation Skills"	http://www.euromatech.com/seminars/mastering-communication-negotiation-and-presentation-skills	2020-06-14	2020-06-18
+422468	"Project Management Professional 4-days Bootcamp in Salt Lake City, UT"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+422164	"Project Management Professional 4-days Bootcamp in Tucson, AZ"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+248191	Austin City Limits Festival	https://www.aclfestival.com	2020-10-09	2020-10-11
+313264	ACerS Refractory Ceramics Division	https://ceramics.org/event/56th-annual-st-louis-section	2020-03-25	2020-03-26
+72637	Forest Showcase Food Festival	https://forestshowcase.org	2020-10-04	2020-10-04
+336351	PWIA-SWANA Joint Conference	http://www.keystoneswana.org/fall-conference	2020-09-17	2020-09-18
+146745	Vidcon	https://vidcon.com/press/	2020-06-17	2020-06-20
+123964	Banff Venture Forum	https://banffventureforum.com/	2020-10-01	2020-10-02
+193619	Northeast Winter Conference	https://cmda.org/events/northeast-winter-conference-sandy-cove/	2020-01-17	2020-01-19
+20088	Cycle Show	https://www.cycleshow.co.uk/	2020-09-18	2020-09-20
+428583	International Regenerative Medicine Conclave	http://www.stemcellxpress.com	2019-11-23	2019-11-24
+400515	International conference on Robotics and Computer Vision	http://icrcv.org/	2019-11-23	2019-11-25
+326598	Global Leaders Summits	https://graduway.com/event/glsboston2020/	2020-09-15	2020-09-16
+333459	Chicago Venture Summit	http://www.chicagoventuresummit.com/	2020-04-22	2020-04-23
+350178	WeiberKram Paderborn	https://weiberkram.org/	2019-11-10	2019-11-10
+353183	India Land and Development Conference	https://centerforland.org/ildc2020/	2020-03-02	2020-03-04
+370347	World of Fenestration - Bengaluru	http://www.ite-exhibitions.com/events/world-of-fenestration-bangalore	2020-08-28	2020-08-28
+357777	Finadium Investors In Securities Lending Conference	https://finadium.com/conferences/fisl-nyc-2020/	2020-05-13	2020-05-14
+387495	New Evangelization Summit	https://www.newevangelization.ca/	2020-04-25	2020-04-25
+68312	Astana Mining & Metallurgy Exhibition	http://www.ite-exhibitions.com/events/astana-mining-metallurgy-congress	2020-06-18	2020-06-19
+340393	Nordic Fundraising Summit	https://nordicfundraisingsummit.com/	2020-03-18	2020-03-19
+438083	Point of Care Testing Conference	https://www.medlabasia.com/en/home.html	2020-06-10	2020-06-12
+389228	Social Media WA Summit	https://akolade.com.au/events/2nd-annual-social-media-wa-summit-2020/	2020-02-19	2020-02-21
+437859	Clinical Microbiology	https://www.medlabasia.com/en/congress/congress-overview/Clinical-microbiology-conference.html	2020-06-11	2020-06-11
+51679	National Student Government Summit	http://www.asgadc.com/	2020-10-08	2020-10-11
+358137	World Stadium Congress	https://www.iqpc.com/events-worldstadiumcongress/venue	2020-05-18	2020-05-19
+24355	Melbourne Wedding Expo	https://www.weddingexposaustralia.com/melbourne-wedding-expo-caulfield/	2020-03-22	2020-03-22
+435124	ITIL Foundation 2-days Bootcamp in Athens	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Athens/11/1/3	2019-11-07	2019-11-08
+403837	Wellness World	http://www.wellnessworld.me	2019-11-21	2019-11-23
+406616	International conference on Vaccine and Vaccine research	https://vaccination.vaccineconferences.com/	2019-11-21	2019-11-22
+413690	Annual R&D 100 Conference	https://www.rd100conference.com/	2019-12-04	2019-12-05
+434284	Lean Six Sigma Green Belt 4-days Bootcamp in Columbus	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+313873	Saddle Brook High School Holiday Flea Market & Gift Show	https://www.jcpromotions.info/calendar/event/saddle-brook-new-jersey-719	2019-11-30	2019-11-30
+422126	"Project Management Professional 4-days Bootcamp in Cincinnati, OH"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+422161	"Project Management Professional 4-days Bootcamp in Scottsdale, AZ"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+421119	India HR Summit & Awards	http://indiahrsummit.com/	2019-11-21	2019-11-22
+426555	PROMEXPO	http://cnrpromexpo.com/?ln=2	2020-10-14	2020-10-17
+427898	Global Social Entrepreneurship Summit	http://gsesummit.org/	2019-11-21	2019-11-23
+435120	ITIL Foundation 2-days Bootcamp in Honolulu	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Honolulu/11/1/41	2019-11-07	2019-11-08
+20551	South East Asia Private Equity Conference	https://pe-insights.org/south-east-asia/	2019-11-21	2019-11-21
+112128	Business and Financial Modelling	"https://www.bmc.net/Finance-,-Accounting-and-Budgeting/40/FBA124/Business-and-Financial-Modelling/Dubai"	2019-10-27	2019-10-31
+422205	"Project Management Professional 4-days Bootcamp in Toronto, ON"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+427285	CSOTTE Teacher Education Conference	https://www.csotte.com/conference	2019-10-27	2019-10-29
+54002	Retail Congress	https://mecsc.olasoft.com/company/roster/companyRosterDetails.html?companyId=63416&companyRosterId=124	2019-10-27	2019-10-29
+347962	Our Dream Wedding Expo	https://www.ourdreamweddingexpo.com/index.html	2019-10-27	2019-10-27
+111750	Mastering Emotional Intelligence: Skills for Excellent Leadership Kuala Lumpur	https://www.bmc.net/Management-and-Leadership/40/MNG199/Mastering-Emotional-Intelligence---Skills-for-Excellent-Leadership/Kuala%20Lumpur	2019-10-27	2019-10-31
+127295	Investment Lineup Summit Dallas	https://conferences.pionline.com/conference/dc-lineup/2020	2020-04-23	2020-04-23
+434278	Lean Six Sigma Green Belt 4-days Bootcamp in Cincinnati	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+435112	ITIL Foundation 2-days Bootcamp in Chicago	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Chicago/11/1/20	2019-11-07	2019-11-08
+422243	"Project Management Professional 4-days Bootcamp in Omaha, NE"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+410030	Hardy Plant Society of Oregon Meeting	https://www.hardyplantsociety.org/events	2019-10-27	2019-10-27
+220042	401(k) Investment Lineup Summit	https://conferences.pionline.com/conference/dc-lineup/2020	2020-04-21	2020-04-21
+6304	The Great Bridal Expo	https://greatbridalexpo.com/event/dallas-texas-10-27-19/	2019-10-27	2019-10-27
+435096	ITIL Foundation 2-days Bootcamp in Orlando	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Orlando/11/1/66	2019-11-07	2019-11-08
+422285	"Project Management Professional 4-days Bootcamp in Saint Paul, MN"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Saint-Paul/12/1/82	2019-10-29	2019-11-01
+436247	PMI- ACP 3-days Bootcamp in Orange County	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Albany/66/1/1	2019-11-06	2019-11-08
+232441	Leadership Strategies For Evolving Health Care Executives	https://www.hsph.harvard.edu/ecpe/programs/leadership-strategies-for-evolving-health-care-executives/	2019-10-27	2019-11-01
+348742	Secure Identification	https://secureidexpo.com/	2020-04-28	2020-04-30
+435105	ITIL Foundation 2-days Bootcamp in Tampa	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+417231	ICPA Conference	https://icpa.org/buenosaires2019/	2019-10-27	2019-11-01
+435069	ITIL Foundation 2-days Bootcamp in Albany	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+422163	"Project Management Professional 4-days Bootcamp in Phoenix, AZ"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Phoenix/12/1/70	2019-10-29	2019-11-01
+435108	ITIL Foundation 2-days Bootcamp in Indianapolis	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Indianapolis/11/1/42	2019-11-07	2019-11-08
+422337	"Project Management Professional 4-days Bootcamp in Palm Beach, FL"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+228939	Interdisciplinary Conference in Psychology	http://www.icp-cip.com/	2020-05-07	2020-05-08
+26825	Led Packaging Expo	http://www.led-fair.com/	2020-05-27	2020-05-29
+14559	AASP/NJ's NORTHEAST Automotive Services Show	http://www.aaspnjnortheast.com	2020-03-20	2020-03-22
+287424	CT Barber Expo	https://ctbarberexpo.com/	2020-05-16	2020-05-18
+229374	Right Age Senior Fair	https://www.zv.hr/fairs-2863/right-age-3124/3124	2020-05-21	2020-05-23
+4448	MCN Scottish Motorcycle Show	http://www.scottishmotorcycleshow.com/	2020-03-07	2020-03-08
+111137	Anti-Money Laundering conference	https://cpe.nysscpa.org/product/30275?utm_source=Calendar&utm_medium=Event%20Calendar&utm_campaign=Event%20Calendar%20Page	2019-11-20	2019-11-20
+435110	ITIL Foundation 2-days Bootcamp in Bloomington	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+336936	International Conference HEAVY IRAN	https://heavy.world/conference-heavy-iran/	2020-10-28	2020-10-28
+405521	Ceramix Expo	https://www.ceramixexpo.com/	2019-11-21	2019-11-24
+200952	Agricultural Direct Marketing Fair	https://www.expo-se.de/home/	2019-11-20	2019-11-21
+412731	Project Management Professional Classroom Training in Phoenix	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Phoenix/12/1/70	2019-10-29	2019-11-01
+344794	Texas Association Of Behavior Specialists Annual Conference	http://www.txabs.org/annual-conference/conference-schedule/	2020-02-27	2020-02-27
+422204	"Project Management Professional 4-days Bootcamp in Ottawa, ON"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Ottawa/12/2/112	2019-10-29	2019-11-01
+435061	ITIL Foundation 2-days Bootcamp in Buffalo	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Buffalo/11/1/13	2019-11-07	2019-11-08
+434706	Lean Six Sigma Green Belt 4-days Bootcamp in San Jose	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+352164	British Schools in the Middle East Conference	https://www.bsme.org.uk/annual-conference	2020-03-03	2020-03-05
+422571	"Project Management Professional 4-days Bootcamp in Raleigh, NC"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Raleigh/12/1/75	2019-10-29	2019-11-01
+435131	ITIL Foundation 2-days Bootcamp in Miami	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+434850	Lean Six Sigma Green Belt 4-days Bootcamp in Minneapolis	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+422282	"Project Management Professional 4-days Bootcamp in Jackson, MS"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Jackson/12/1/44	2019-10-29	2019-11-01
+340150	Nordic EV Summit	https://nordicevs.no/	2020-04-23	2020-04-24
+435463	ITIL Foundation 2-days Bootcamp in Chattanooga	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Chattanooga/11/1/19	2019-11-07	2019-11-08
+433933	Lean Six Sigma Black Belt 4-days Bootcamp in Seattle	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Albany/8/1/1	2019-11-05	2019-11-08
+435127	ITIL Foundation 2-days Bootcamp in Fort Lauderdale	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Fort-Lauderdale/11/1/34	2019-11-07	2019-11-08
+422241	"Project Management Professional 4-days Bootcamp in Bismarck, ND"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+435126	ITIL Foundation 2-days Bootcamp in Jacksonville	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+435491	ITIL Foundation 2-days Bootcamp in Raleigh	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-07	2019-11-08
+435487	ITIL Foundation 2-days Bootcamp in Casper	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Casper/11/1/14	2019-11-07	2019-11-08
+422150	"Project Management Professional 4-days Bootcamp in Florence, SC"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+233660	Masters of Aesthetics Symposium	http://www.moasandiego.org/	2020-08-27	2020-08-30
+422336	"Project Management Professional 4-days Bootcamp in Boise, ID"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Boise/12/1/11	2019-10-29	2019-11-01
+435461	ITIL Foundation 2-days Bootcamp in Pierre	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Pierre/11/1/71	2019-11-07	2019-11-08
+105487	East Side Winter Avant-Garde Art & Craft Show	https://www.avantgardeshows.com/events	2020-10-17	2020-10-17
+379042	"International Conference on Entrepreneurship, Business and Tourism"	https://submit.confbay.com/conf/icebt2019	2019-11-23	2019-11-23
+436249	PMI- ACP 3-days Bootcamp in Sacramento	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Albany/66/1/1	2019-11-06	2019-11-08
+322569	Future Festival New York	https://www.futurefestival.com/newyork/dec#buytickets	2019-12-05	2019-12-05
+348394	Broker Fair	https://brokerfair.org/	2020-05-18	2020-05-18
+339308	November Monthly Meeting	https://www.ci-shrm.org/events/EventDetails.aspx?id=1224224&group=	2019-11-12	2019-11-12
+406469	CII Global Energy Conclave	http://www.gexpo.in	2019-11-20	2019-11-20
+339307	December Monthly Meeting	https://www.ci-shrm.org/events/EventDetails.aspx?id=1224225&group=	2019-12-10	2019-12-10
+6860	China International Equipment Manufacturing Expo	http://www.cnzbh.com/	2020-09-01	2020-09-05
+164395	3D Printing USA	https://www.idtechex.com/events/show.asp	2019-11-20	2019-11-21
+422463	"Project Management Professional 4-days Bootcamp in Knoxville, TN"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Scottsdale/12/1/87	2019-10-29	2019-11-01
+419778	Symbioteq Biocompatibility of Medical Devices Conference	https://www.key2compliance.com/cs5247-biocompatibility-medical-devices-2019.php	2021-10-05	2021-10-06
+320668	Body Mind Spirit Expo Columbus	https://www.bmse.net/bmseweb/event/eventhome.php?eid=332	2020-08-29	2020-08-30
+209280	New Room Conference	https://2020.newroomconference.com	2020-09-23	2020-09-25
+434848	Lean Six Sigma Green Belt 4-days Bootcamp in Sacramento	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+435568	International Conference on Cancer Research and Pharmacology	https://cancer.cmesociety.com/	2020-06-29	2020-06-30
+403344	Fresenius Seminar Supplier Ratings and Audits	https://www.akademie-fresenius.de/veranstaltungen/detail/produkt/fresenius-seminar-lieferantenbewertungen-und-audits-1/	2020-07-01	2020-07-02
+282101	NG Oil & Gas Summit	https://gdsgroup.com/events/oil-and-gas/oil-gas-june-2019/	2019-11-20	2019-11-22
+185140	Southern Classic	https://walker.agrilife.org/southern-classic-registration/	2019-12-13	2019-12-15
+31793	Downtown Aspen Art Festival	http://www.artfestival.com/festivals/downtown-aspen-art-festival-colorado	2020-07-18	2020-07-19
+447542	Global Smart Build Summit & Time2Leap Awards	https://www.gsbspro.com/	2019-11-22	2019-11-22
+424840	Yes Forum	http://www.intracen.org/itc/events/world-export-development-forum/	2019-11-20	2019-11-20
+9535	METALEX Vietnam	https://www.metalexvietnam.com/index.html	2020-10-08	2020-10-10
+162306	HR & Technology Minds	https://www.rethink-hrtech.com/	2019-11-21	2019-11-22
+447548	MSME Summit	http://IODGLOBAL.COM	2019-10-16	2019-10-16
+344081	International Conference on Control Science and Systems Engineering	http://www.iccsse.com/	2020-07-03	2020-07-05
+185076	The global nutraceutical event	https://www.vitafoods.eu.com/en/welcome.html	2020-05-12	2020-05-14
+234021	International Symposium on Memory Systems	https://memsys.io/	2020-09-28	2020-10-01
+78274	Salon du Mariage	http://www.salonmariageetenfant.be/	2019-10-19	2019-10-20
+73566	Preventica Lyon	https://www.preventica.com/exposant.php	2020-09-29	2020-10-01
+243764	Paris Asset Forum Hospitality	https://www.conference.paris/	2019-11-20	2019-11-20
+447551	International Health Sciences Conference	http://inesegconferences.org/ihsc	2019-11-06	2019-11-08
+189894	Kidsfest	https://kidsfestottawa.ca/date-location	2020-02-29	2020-03-01
+218486	Homeschool Family Expo	http://www.homeschoolfamilyexpo.com/index.php	2020-03-07	2020-03-07
+52879	Les Puces Rouennaises	http://www.pucesrouennaises.com/	2020-01-17	2020-01-19
+264565	Energias Renovables	https://www.perueventos.org/	2019-11-21	2019-11-21
+447554	International Conference on Mobile Computing and Sustainable Informatics	http://icmcsi.com/index.html	2020-01-23	2020-01-24
+28774	Northern California Active Sports Market	https://www.wwsra.com/show-schedule/northern-california-post-show/	2020-03-09	2020-03-11
+353903	Jakarta Stone Fair	http://www.tgexpo.com/tr/Fuarlar/648/jakarta-stone-fair-2-uluslararasi-dogal-tas-urunleri-ve-teknolojileri-fuari	2019-11-06	2019-11-08
+435495	ITIL Foundation 2-days Bootcamp in Fargo	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-07	2019-11-08
+378531	TWI Metal Additive Manufacturing Symposium	https://www.twi-global.com/media-and-events/events-diary/twi-metal-additive-manufacturing-symposium	2019-11-26	2019-11-26
+385546	World Congress on Nursing & Healthcare	https://scientificfederation.com/nursing-healthcare-2019/	2019-11-21	2019-11-22
+435479	ITIL Foundation 2-days Bootcamp in Rapid City	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Rapid-City/11/1/76	2019-11-07	2019-11-08
+435475	ITIL Foundation 2-days Bootcamp in Charlottesville	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Charlottesville/11/1/18	2019-11-07	2019-11-08
+354590	Patient Safety & Quality Symposium	https://www.barnesjewish.org/For-Professionals/Patient-Safety-Quality-Symposium	2020-02-28	2020-02-28
+435481	ITIL Foundation 2-days Bootcamp in Richmond	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Richmond/11/1/78	2019-11-07	2019-11-08
+405328	International Conference on Global Pharmaceutics and NDDS Congress	https://www.ologymavens.com/conferences/Pharmaceutical-Conferences	2019-11-21	2019-11-22
+171111	BioEl International Winterschool on Bioelectronics Conference	https://www.jku.at/en/institute-of-physical-chemistry-and-linz-institute-of-organic-solar-cells/conferences/	2020-03-14	2020-03-21
+422143	"Project Management Professional 4-days Bootcamp in Manchester, NH"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+419871	Finnish Educational Research Association Conference on Education	http://www.uef.fi/-/21-22-11-kasvatustieteen-paivat-abstraktikutsu-avoinna-1-10-saakka-joensuu	2019-11-21	2019-11-22
+422146	"Project Management Professional 4-days Bootcamp in Rochester City, NY"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+437014	"International Symposium on Advanced Technologies, Renewable Energies and Economic Development"	https://cited2019.loria.fr/	2020-02-06	2020-02-08
+23632	Zoosphere	http://expoforum-center.ru/en/calendar/zoosfera-2019/	2019-11-21	2019-11-23
+223252	IMEX-MPI-MCI Future Leaders Forum	https://www.itcmchina.com/article.php?article_id=2947	2020-03-24	2020-03-26
+168528	Shanghai International Architectural& Engineering design and Urban Planning Exhibition	http://www.upadchina.com	2019-11-21	2019-11-23
+251118	Andrews Air Force Base Job Fair	https://www.jobzoneonline.com/job-fair-details.aspx?eventID=12-05-19-andrews-afb-job-fair-top3-club-new-date	2019-12-05	2019-12-05
+347282	CBS UK Conference	https://cbsuk.org/conference-2020/	2020-02-28	2020-03-01
+447561	ChassisSim Bootcamp - Cologne Germany	https://www.chassissim.com/the-chassissim-bootcamps-are-on-for-2019/	2019-11-11	2019-11-12
+436221	PMI- ACP 3-days Bootcamp in Toronto	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Albany/66/1/1	2019-11-06	2019-11-08
+343160	GAP Conference	https://www.gapofky.org/	2020-03-19	2020-03-19
+447564	ChassisSim Bootcamp - Indianapolis USA	https://www.chassissim.com/the-chassissim-bootcamps-are-on-for-2019/	2019-12-10	2019-12-11
+422200	"Project Management Professional 4-days Bootcamp in Mississauga, ON"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+434703	Lean Six Sigma Green Belt 4-days Bootcamp in Edmonton	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+447568	Juice Cosmetics Presents Bombay Times Fashion Week	https://juicecosmetics.in	2019-10-12	2019-10-12
+401117	MommyCon	https://mommycon.com/location/portland-2020/	2020-06-12	2020-06-13
+434270	Lean Six Sigma Green Belt 4-days Bootcamp in Las Vegas	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+364139	MommyCon Pasadena	https://mommycon.com/location/anaheim-2020/	2020-04-24	2020-04-25
+422151	"Project Management Professional 4-days Bootcamp in Providence, RI"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+447570	Safe Secure Workplaces Conference	http://corptive.com/	2020-02-06	2020-02-06
+422153	"Project Management Professional 4-days Bootcamp in Charleston, SC"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+435456	ITIL Foundation 2-days Bootcamp in Florence	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Florence/11/1/33	2019-11-07	2019-11-08
+422178	"Project Management Professional 4-days Bootcamp in San Diego, CA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+241185	Sedona Vedic Astrology Conference	https://www.sedonavedicastrology.com/sedona-vedic-astrology-conference-accomodations/	2019-11-21	2019-11-25
+435473	ITIL Foundation 2-days Bootcamp in Salt Lake City	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+342577	ABC WIN Seminar	http://www.abcwin-seminar.com/	2020-01-12	2020-01-17
+282633	MommyCon Orange County	https://mommycon.com/location/anaheim-2020/#location	2020-04-24	2020-04-25
+433581	Lean Six Sigma Black Belt 4-days Bootcamp in Minneapolis	http://www.certificationplanner.com	2019-10-29	2019-11-01
+422180	"Project Management Professional 4-days Bootcamp in Little Rock, AR"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+142098	International Intellectual Property Law Association Congress	https://dubai.iipla.org	2020-01-29	2020-01-30
+422182	"Project Management Professional 4-days Bootcamp in Palo Alto, CA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+422191	"Project Management Professional 4-days Bootcamp in Edmonton, AB"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+21545	Casa TexBo	https://www.casa-messe.at/de-at.html	2020-01-22	2020-01-25
+422192	"Project Management Professional 4-days Bootcamp in Vancouver, BC"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+434275	Lean Six Sigma Green Belt 4-days Bootcamp in Manchester	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+422194	"Project Management Professional 4-days Bootcamp in Winnipeg, MB"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+422199	"Project Management Professional 4-days Bootcamp in Halifax, NS"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+447574	SUC Book Fair & Inter-School Competitions	https://www.skylineuniversity.ac.ae/	2019-10-22	2019-10-23
+422225	"Project Management Professional 4-days Bootcamp in Eugene, OR"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+422233	"Project Management Professional 4-days Bootcamp in Cleveland, OH"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+114870	Dubai International Spine Conference	https://www.dubaispineconferences.com/conference-info	2020-04-11	2020-04-13
+422229	"Project Management Professional 4-days Bootcamp in Tulsa, OK"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+302918	ASCL Cymru Annual Conference	https://www.ascl.org.uk/professional-development/conferences/ascl-cymru-annual-conference/	2019-11-21	2019-11-22
+369946	OpenTech Summit China	https://opentechsummit.cn/	2019-11-21	2019-11-23
+447577	Black Beauty Expo and Black Beauty Awards	http://www.blackbeautyexpo.com	2020-08-02	2020-08-02
+344049	Accounting and Accountability in Emerging Economies Conference	https://www.essex.ac.uk/events/2020/06/29/aaee-conference-2020	2020-06-29	2020-07-01
+422264	"Project Management Professional 4-days Bootcamp in Regina, SK"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Regina/12/2/114	2019-11-05	2019-11-08
+434274	Lean Six Sigma Green Belt 4-days Bootcamp in Reno	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+382057	Governing Leadership Forum	http://events.governing.com/Governing-Leadership-Forum-California.html	2019-11-21	2019-11-21
+422236	"Project Management Professional 4-days Bootcamp in Albuquerque, NM"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albuquerque/12/1/2	2019-11-05	2019-11-08
+447578	Content Connections	https://acrolinxcc.com/	2020-05-18	2020-05-20
+195967	Indiana Veterinary Medical Association Meeting	https://invma.site-ym.com/events/EventDetails.aspx?id=1214134&group=	2020-01-31	2020-02-01
+422265	"Project Management Professional 4-days Bootcamp in Saskatoon, SK"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Saskatoon/12/2/115	2019-11-05	2019-11-08
+422240	"Project Management Professional 4-days Bootcamp in New York City, NY"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+399995	Mobilefest Istanbul	http://www.mobilefest.net	2019-11-21	2019-11-24
+422269	"Project Management Professional 4-days Bootcamp in Hartford, CT"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Hartford/12/1/39	2019-11-05	2019-11-08
+422273	"Project Management Professional 4-days Bootcamp in Athens, GA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Athens/12/1/3	2019-11-05	2019-11-08
+422275	"Project Management Professional 4-days Bootcamp in Atlanta, GA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Atlanta/12/1/4	2019-11-05	2019-11-08
+410439	"World Congress on Psychiatry, Psychology and Mental health"	https://psychiatry.inovineconferences.com/index.php	2019-11-21	2019-11-22
+422280	"Project Management Professional 4-days Bootcamp in Kansas City, MO"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Kansas-City/12/1/47	2019-11-05	2019-11-08
+422235	"Project Management Professional 4-days Bootcamp in Las Vegas, NV"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Las-Vegas/12/1/49	2019-11-05	2019-11-08
+351031	Fine Mineral Show Tucson	http://finemineralshow.com/tucson/	2020-02-07	2020-02-10
+326079	Fit Weekend	http://www.fit-weekend.pl	2020-04-25	2020-04-26
+33164	International Conference on Systems Engineering	http://www.icseng.com/	2020-08-25	2020-08-27
+66773	Grand Bridal Showcase	https://www.lockettshows.com/reno-bridal-shows	2020-02-09	2020-02-09
+427178	International Conference on Acute Stroke Management	https://assimilate.creativesprout.com/AcuteStrokeManagement	2019-11-21	2019-11-22
+422375	"Project Management Professional 4-days Bootcamp in Rapid City, SD"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+422322	"Project Management Professional 4-days Bootcamp in Indianapolis, IN"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Indianapolis/12/1/42	2019-11-05	2019-11-08
+422327	"Project Management Professional 4-days Bootcamp in Bloomington, IN"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Bloomington/12/1/10	2019-11-05	2019-11-08
+352675	Devopsdays Amsterdam	https://devopsdays.org/events/2020-amsterdam/welcome/	2020-06-17	2020-06-19
+422365	"Project Management Professional 4-days Bootcamp in Greenville, SC"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Greenville/12/1/38	2019-11-05	2019-11-08
+20409	Eat & Style Stuttgart	https://www.fleet-events.de/de/Eventportfolio/Publikumsmessen/eat_and_style.html	2019-11-22	2019-11-24
+436223	PMI- ACP 3-days Bootcamp in Ottawa	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-06	2019-11-08
+422368	"Project Management Professional 4-days Bootcamp in Pierre, SD"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Pierre/12/1/71	2019-11-05	2019-11-08
+422379	"Project Management Professional 4-days Bootcamp in Chattanooga, TN"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Chattanooga/12/1/19	2019-11-05	2019-11-08
+420320	KARRASS Effective Negotiating Seminar	https://www.karrass.com/en/hartford-02-06-20.html	2020-02-06	2020-02-07
+121393	IdWeek Conference	https://idweek.org/past-and-future-events/	2020-10-21	2020-10-25
+424772	KARRASS Effective Negotiating Seminar	https://www.karrass.com/en/portland-01-16-20.html	2020-01-16	2020-01-17
+422377	"Project Management Professional 4-days Bootcamp in Sioux Falls, SD"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+424783	KARRASS Effective Negotiating Seminar	https://www.karrass.com/en/london-12-16-19.html	2019-12-16	2019-12-17
+169843	Id Week Philadelphia	https://idweek.org/past-and-future-events/	2020-10-21	2020-10-25
+342596	CESifo Area Conference on the Economics of Digitization	https://www.cesifo.org/en/node/1764	2019-11-22	2019-11-23
+380127	SolarRoofs Delhi NCR	http://www.firstviewgroup.com/index.php/business-conferences-trainings-and-meets-2/upcoming-events-2/business-events/solarroofs-delhi-ncr-2019	2019-11-22	2019-11-22
+420668	KARRASS Effective Negotiating Seminar	https://www.karrass.com/en/vancouver-04-02-20.html	2020-04-02	2020-04-03
+422552	"Project Management Professional 4-days Bootcamp in Birmingham, AL"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+320168	Furniture & Home Decor Expo	http://businessbay.today/	2019-10-18	2019-10-20
+356533	TVERC Recorders Conference	http://www.tverc.org/cms/recorders-conferences	2020-03-07	2020-03-07
+420981	KARRASS Effective Negotiating Seminar	https://www.karrass.com/en/philadelphia-12-09-19.html	2019-12-09	2019-12-10
+358934	Norwich Wedding Show	http://www.wowweddingshows.co/	2019-11-24	2019-11-24
+396028	International Joint Conference on Computer Vision and Pattern Recognition	http://www.ccvpr.org/	2019-11-22	2019-11-24
+427773	The Young African Leaders Summit	http://www.yplnetwork.com/yalsummit	2019-11-22	2019-11-23
+436230	PMI- ACP 3-days Bootcamp in Vancouver	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Vancouver/66/2/117	2019-11-06	2019-11-08
+354626	Health Fiesta	https://healthfiesta.sg/	2020-05-01	2020-05-03
+436432	Tokyo International Audio Show	http://iasj.info/tokyo-international-audio-show/2019/	2019-11-22	2019-11-24
+422325	"Project Management Professional 4-days Bootcamp in Topeka, KS"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+422320	"Project Management Professional 4-days Bootcamp in Cedar Rapids, IA"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-11-05	2019-11-08
+436224	PMI- ACP 3-days Bootcamp in Halifax	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Halifax/66/2/109	2019-11-06	2019-11-08
+420333	KARRASS Effective Negotiating Seminar	https://www.karrass.com/en/detroit2-04-22-20.html	2020-04-22	2020-04-22
+436227	PMI- ACP 3-days Bootcamp in Winnipeg	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-06	2019-11-08
+368413	Goodguys Kentucky Nationals	https://members.good-guys.com/cgi/page.cgi/_evtcal.html?evt=228	2020-10-09	2020-10-11
+436231	PMI- ACP 3-days Bootcamp in Calgary	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Calgary/66/2/107	2019-11-06	2019-11-08
+416413	Furniture & Home Decor Expo	https://www.iadsandevents.com/	2019-10-18	2019-10-21
+15256	Australia China Business Leaders Luncheon - Sydney	https://acbwchina.com.au/	2019-11-22	2019-11-22
+168052	Building Value in a Wine Business	https://www.theseminargroup.net/planning.aspx?id=5980	2019-11-22	2019-11-22
+433955	Lean Six Sigma Black Belt 4-days Bootcamp in Mexico City	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Mexico-City/8/3/105	2019-11-05	2019-11-08
+353688	Grandma's Attic Antique & Collectors Fair Bournemouth	https://www.grandmasatticfairs.co.uk/	2019-12-08	2019-12-08
+433954	Lean Six Sigma Black Belt 4-days Bootcamp in Chihuahua	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Chihuahua/8/3/101	2019-11-05	2019-11-08
+436232	PMI- ACP 3-days Bootcamp in Edmonton	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Edmonton/66/2/108	2019-11-06	2019-11-08
+305534	Euroagro Lviv	"http://www.targikielce.pl/en/2nd-international-fair-of-agricultural-techniques-euroagro-lviv,21745.htm"	2019-11-22	2019-11-24
+433734	Lean Six Sigma Black Belt 4-days Bootcamp in Miami	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Miami/8/1/57	2019-11-05	2019-11-08
+436233	PMI- ACP 3-days Bootcamp in San Jose	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/San-Jose/66/1/86	2019-11-06	2019-11-08
+378473	"Neuroscience, Nursing and Healthcare Summit"	https://www.lexisconferences.com/neuroscience-nursing	2019-11-22	2019-11-23
+434285	Lean Six Sigma Green Belt 4-days Bootcamp in Pittsburgh	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Pittsburgh/9/1/72	2019-11-05	2019-11-08
+434889	Lean Six Sigma Green Belt 4-days Bootcamp in Tucson	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Tucson/9/1/95	2019-11-05	2019-11-08
+396027	International Joint Conference on Robotics and Artificial Intelligence	http://www.jcrai.org/	2019-11-22	2019-11-24
+434888	Lean Six Sigma Green Belt 4-days Bootcamp in Scottsdale	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Calgary/12/2/107	2019-11-05	2019-11-08
+434474	Lean Six Sigma Green Belt 4-days Bootcamp in Spokane	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Albany/9/1/1	2019-11-05	2019-11-08
+364849	International Conference on Cancer Research and Pharmacology	https://cancer.cmesociety.com/	2020-06-29	2020-06-30
+132959	European Conference PHYSICS OF MAGNETISM	https://www.ifmpan.poznan.pl/pm20/	2020-06-22	2020-06-26
+388971	Sutraa- The Indian Fashion Exhibition	http://www.sutraaexhibitions.com/	2019-12-02	2019-12-03
+409885	International Conference on Cognitive Development and Human Resilience	https://humanresilience.conferenceseries.com/	2019-11-22	2019-11-23
+436238	PMI- ACP 3-days Bootcamp in San Diego	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/San-Diego/66/1/84	2019-11-06	2019-11-08
+349228	Design and Inventors Fair	https://www.design-erfindermesse.at/de/	2020-10-07	2020-10-11
+364849	International Conference on Cancer Research and Pharmacology	https://cancer.cmesociety.com/	2020-06-29	2020-06-30
+360462	"International Construction, Power and Mining Exhibition"	https://www.cpmmyanmar.com/cpmm/2020/en/index.asp	2020-10-21	2020-10-23
+436245	PMI- ACP 3-days Bootcamp in Los Angeles	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Los-Angeles/66/1/53	2019-11-06	2019-11-08
+287539	AREDAY Summit	https://www.areday.net/	2020-08-12	2020-08-16
+432647	International Conference on Agriculture and IT/Iot/ICT	http://www.icaitconference.com/menu/home	2019-11-22	2019-11-24
+435234	ITIL Foundation 2-days Bootcamp in San Jose	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+438139	Eastern Signage Media Led Exhibition	http://www.easternprintpack.com	2019-11-22	2019-11-24
+436248	PMI- ACP 3-days Bootcamp in Palo Alto	https://www.certificationplanner.com/APM/PMI-ACP-with-Exam/ICT/Palo-Alto/66/1/68	2019-11-06	2019-11-08
+311224	Heroes & Villains Fan Fest Portland	https://heroesfanfest.com/portland/	2019-11-23	2019-11-24
+182401	Mastering Project Management	http://oxford-management.com/course/mastering-project-management	2020-10-05	2020-10-09
+316252	MTA Myanmar	https://www.mtamyanmar.com/mta/2020/en/index.asp	2020-10-21	2020-10-23
+435089	ITIL Foundation 2-days Bootcamp in Des Moines	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Albany/11/1/1	2019-11-07	2019-11-08
+283260	Adelaide Gardening & Outdoor Living Expo	http://www.kjex.com.au/Home%20Show.html	2020-10-16	2020-10-18
+422145	"Project Management Professional 4-days Bootcamp in Albany, NY"	https://www.certificationplanner.com/APM/Project-Management-Professional-(PMP)/ICT/Albany/12/1/1	2019-10-29	2019-11-01
+434086	Lean Six Sigma Green Belt 4-days Bootcamp in Detroit	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Detroit/9/1/29	2019-10-29	2019-11-01
+409640	"World Congress on Obstetrics, Gynecology & Pediatrics"	https://paediatricconferences.com/	2019-11-23	2019-11-24
+434066	Lean Six Sigma Green Belt 4-days Bootcamp in Nashville	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Nashville/9/1/60	2019-10-29	2019-11-01
+434061	Lean Six Sigma Green Belt 4-days Bootcamp in Norfolk	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Norfolk/9/1/99	2019-10-29	2019-11-01
+73627	Wine Market of Independent Vineyards	https://www.piacenzaexpo.it/event-category/piacenza-expo/	2019-11-23	2019-11-25
+375074	Empowered Light Holistic Expo	https://www.empoweredlight.com/events/holistic-expo-november-2019-nashville-tn/	2019-11-23	2019-11-24
+434059	Lean Six Sigma Green Belt 4-days Bootcamp in Birmingham	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Birmingham/9/1/100	2019-10-29	2019-11-01
+433671	Lean Six Sigma Black Belt 4-days Bootcamp in Boise	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Boise/8/1/11	2019-10-29	2019-11-01
+434577	Lean Six Sigma Green Belt 4-days Bootcamp in Denver	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Denver/9/1/27	2019-10-29	2019-11-01
+407082	BURKHA EXPO	http://www.3meventmanagement.in/	2019-11-23	2019-11-26
+434486	Lean Six Sigma Green Belt 4-days Bootcamp in Providence	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Providence/9/1/74	2019-10-29	2019-11-01
+409636	International meeting on Public and Women Health	https://publichealthmeetings.com/	2020-04-23	2020-04-24
+433779	Lean Six Sigma Black Belt 4-days Bootcamp in Ottawa	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Black-Belt-(LSSBB)/ICT/Ottawa/8/2/112	2019-11-05	2019-11-08
+205116	Berta Trunk Show	https://www.berta.com/trunkshows/bridal/	2019-12-06	2019-12-08
+205403	Berta Trunk Show Naples	https://www.berta.com/trunkshows/bridal/	2019-12-27	2019-12-29
+205548	Berta Trunk Show Trani	https://www.berta.com/trunkshows/bridal/	2019-12-20	2019-12-22
+320663	Berta Trunk Show Chatham	https://www.berta.com/trunkshows/bridal/	2019-12-13	2019-12-15
+398798	Self-Actualized Leadership Development Workshop	http://www.definedvalues.org	2019-12-22	2019-12-22
+434254	Lean Six Sigma Green Belt 4-days Bootcamp in Springfield	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Springfield/9/1/92	2019-10-29	2019-11-01
+434252	Lean Six Sigma Green Belt 4-days Bootcamp in Jackson	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Jackson/9/1/44	2019-10-29	2019-11-01
+434089	Lean Six Sigma Green Belt 4-days Bootcamp in Topeka	https://www.certificationplanner.com/LSS/Lean-Six-Sigma-Green-Belt-(LSSGB)/ICT/Topeka/9/1/94	2019-10-29	2019-11-01
+393989	ESG Investing Chicago	https://conferences.pionline.com/conference/esg-conference/2020/	2020-05-14	2020-05-14
+435053	ITIL Foundation 2-days Bootcamp in Augusta	https://www.certificationplanner.com/ITSA/ITIL-Foundation/ICT/Augusta/11/1/6	2019-11-07	2019-11-08
+156330	Britain Pacific Conference	https://www.cpeconferences.com/london-2019/2020	2019-12-28	2020-01-04
+342021	ASPEN SnowMass Conference	https://www.cpdconferencing.com/	2020-01-03	2020-01-10
+259075	The MusicFest Steamboat Springs	http://themusicfest.com/travel/lodging/	2020-01-05	2020-01-10
+390085	World Conference on Financial Accounting	https://researchfora.net/event/index.php?id=1012840	2019-10-26	2019-10-26
+48440	Sport Aktiv	https://www.sportaktiv-erfurt.de/startseite.html	2019-10-26	2019-10-27
+393208	International Conference on Advances in Artificial Intelligence	http://icaai.org/	2019-10-26	2019-10-28
+1991	AUTO GUANGZHOU	http://www.autoguangzhou.com.cn/rcap/index_79.aspx#	2019-11-22	2019-12-01
+70138	Australian Cotton Conference	http://australiancottonconference.com.au/	2020-08-04	2020-08-06
+33152	China Xiamen International Vegetarian Food Fair	http://www.vffair.com/en/	2020-05-21	2020-05-25
+199856	International Conference on Higher Education Advances	http://www.headconf.org/	2020-06-02	2020-06-05
+330218	Sasquatch Summit	http://sasquatchsummit.com/	2019-11-22	2019-11-23
+423386	Travel Technology Summit	http://www.traveltechsummit.com/Home.aspx	2019-11-22	2019-11-22
+274903	"Jackson Art, Beer, and Wine Festival"	http://www.ellasharp.org	2020-06-13	2020-06-13
+331615	Phoenix Nonprofit Institute	https://www.nonprofitlearninglab.org/phoenix	2020-05-08	2020-05-08
+55607	South West Growers Show	https://www.swgs.co.uk/	2020-10-07	2020-10-07
+242174	Exposition for Human Resource Management	https://www.salon-rh.ch	2020-09-30	2020-10-01
+12538	Salon RH	https://www.salon-rh.ch	2020-09-30	2020-10-01
+292944	Sabat Fiction Fest	"http://www.targikielce.pl/pl/kalendarz-wydarzen,11.htm?year=2020"	2020-08-21	2020-08-23
+14029	"International Fair of Machine Tools, Tools and Processing Technology"	https://www.exposilesia.pl/kalendarz/pl/	2020-09-29	2020-10-01
+310005	Lung Force Expo Cherry Hill	https://action.lung.org/site/TR?fr_id=19356&pg=entry	2020-04-14	2020-04-14
+302238	Big Island Chocolate Festival	https://bigislandchocolatefestival.com/	2020-05-01	2020-05-02
+72628	"Chester Food, Drink and Lifestyle Festival"	https://chesterfoodanddrink.co.uk/	2020-04-11	2020-04-13
+141762	Kunstrai	http://www.kunstrai.nl/en/	2020-04-29	2020-05-03
+248321	Murphysboro Apple Festival	http://applefestival.murphysboro.com/	2020-09-16	2020-09-19

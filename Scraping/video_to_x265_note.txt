@@ -1,0 +1,6 @@
+list of folder to scan
+ubuntu codec information (to check x265)
+array of file with absolute location
+convert to x265
+rm old file
+

@@ -1,0 +1,17 @@
+Step1 - connect the folder 
+	command1= cd/Desktop/foldername
+
+step2- change the file name on line number 8  
+	eg:filename="beauty.csv"
+
+Step3 - change the URL
+	press any alphabet and url will come up like this https://www.boot.com/vis/v1/en/directory/b?oid=58808&lang=2
+	Script URl = https://www.drupa.com/vis/v1/en/directory/"+x+"?oid=39894&lang=2
+
+Step4 - change the URL on line 46 
+	url=https://www.drupa.com
+
+Step5 - Run the file on terminal 
+	command= python3.5 filename.py	
+
+

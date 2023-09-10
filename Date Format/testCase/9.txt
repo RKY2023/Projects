@@ -1,0 +1,95 @@
+id	name	website	start_date	end_date
+303422	Polymer Foam	https://www.ami.international/events/event?Code=C1061	2020-06-23	2020-06-24
+71266	Recruitment Agency Expo Birmingham	https://recruitmentagencyexpo.com/birmingham/	2020-10-07	2020-10-08
+246735	Dewberry Farm	https://dewberryfarm.rezdy.com/161255/fall-field-trips-school-groups	2019-11-15	2019-11-15
+267276	International Conference on Engineering & Technology Computer Basic & Applied Sciences	https://academicfora.com/ecba-november-06-07-2019-taipei-taiwan/	2019-11-06	2019-11-07
+250166	Uranquinty Folk Festival	http://www.uranquintyfolk.com/the-festival	2020-10-02	2020-10-05
+129369	Annual Advances in Genome Biology and Technology meeting	https://www.agbt.org/	2020-02-23	2020-02-26
+231459	Lebanon Area Fair	http://www.lebanonareafair.com/	2020-07-25	2020-08-01
+238487	Recam Week Conference	https://www.recamcongress.com/	2020-03-03	2020-03-04
+52864	West Coast Women's Show	http://www.westcoastwomen.net/	2019-10-18	2019-10-20
+371940	SolarRoofs North East	https://www.solarquarter.com/index.php/events/business-events/49-solarroofs-north-east-2019	2019-10-17	2019-10-17
+150878	LiANZA CONFERENCE	https://lianza.org.nz/events/lianza-conference/	2019-10-21	2019-10-23
+74981	Antik Markt & Design Cloppenburg	https://sparringa-veranstaltungen.de/21-10-2018-antikmarkt-design-3/	2019-10-20	2019-10-20
+273934	Medina Flea Market of Collectables	https://www.conraddowdell.com/event/Medina-Flea-Market-November-2019	2019-11-17	2019-11-17
+434744	American Water Works Association Annual Conference & Exposition	https://www.awwa.org/Events-Education/Events-Calendar/ctl/ViewEvent/mid/6794/OccuranceId/158	2019-10-20	2019-10-22
+406244	TRSA Conference and Exchange	https://www.trsa.org/calendarevent/107th-trsa-annual-conference-2020/	2020-10-20	2020-10-22
+414903	Sacramento New Earth Expo	https://www.newearthevents.com/sacramento	2019-10-27	2019-10-27
+173747	Carmarthen Antiques & Flea Markets	http://www.towyevents.co.uk/	2019-11-24	2019-11-24
+110386	T Rose International Bridal Show Baltimore	https://www.trosebridalshows.com/vendor/	2020-10-25	2020-10-25
+387967	Diamonds & Donuts Kick Off Car Show	https://raymondleejewelers.net/diamondsbyraymondlee/events/	2019-10-20	2019-10-20
+328341	International Conference on Recent Advances in Engineering Science and Technology	http://www.ifiad.in/Conference/2019/October/20th-Nellore-ICRAEST/index.html	2019-10-20	2019-10-20
+383906	Meeting of the International Cytokine & Interferon Society	https://vienna.cytokinesociety.org/	2019-10-20	2019-10-23
+405615	World Congress of Nano Science &Technology	http://www.bitcongress.com/nano2019/HotelandVenue.asp	2019-10-20	2019-10-22
+101619	Wedding Wonder Show	https://weddingwondershow.co.uk/wedding-fairs/newcastle/st-james-park/	2019-10-20	2019-10-20
+328696	Celebrate Your Marriage Conference	https://jayandlaura.com/events/celebrate-your-marriage-may-2020/	2020-05-17	2020-05-18
+158487	Scotiabank Waterfront Marathon Exhibition	http://www.torontowaterfrontmarathon.com/#	2019-10-20	2019-10-20
+290154	Chicago CROP Walk	http://www.chicagocropwalk.org/	2019-10-20	2019-10-20
+434618	National Immigrant Integration Conference	https://niicnewamericandreams.org/	2019-10-20	2019-10-22
+303690	Cashless Payments Summit	https://vukanicomms.co.za/event/cashless-payments-summit-2019/	2019-11-07	2019-11-08
+394180	World Coal Leaders Network Conference	https://www.coaltrans.com/Events/world-coal-conference/Venue	2019-10-20	2019-10-22
+135249	The Columbus Wedding Show	https://ohioweddingshows.com/	2020-01-26	2020-01-26
+421736	International Conference on Business and Economics	https://iaarhies.org/icbe-2019-berlin-germany/	2019-10-20	2019-10-21
+117363	Robeson Regional Agricultural Fair	https://robesoncountyfair.com/Default.asp?	2020-10-02	2020-10-10
+154717	Fashion Gift Fair	http://www.ukgrandsales.co.uk/Fashion-and-Gift-Fair-Yorkshire-Event-Centre.aspx?id=31&Year=2015	2020-09-25	2020-09-26
+207315	Milton Keynes Wedding Show	http://www.centralexhibitions.co.uk/wedding-exhibitions/	2019-11-03	2019-11-03
+287790	Junkstock	https://www.junkstock.com/#winterwonderland	2019-12-06	2019-12-08
+303884	Village Art Faire	https://scdba.org/village-art-faire/	2019-11-03	2019-11-03
+70664	The Greater Northeast Philly Bridal Showcase	https://www.bridalevent.com/events-1/the-big-north-east-philly-bridal-show-expo	2019-10-20	2019-10-20
+441121	APCIA Annual Meeting	http://www.pciaa.net/pciwebsite/cms/content/viewpage?sitePageId=55558	2019-10-20	2019-10-22
+101932	Gun Shows Wichita	https://rkshows.com/event/wichita-ks-gun-show-november/	2019-11-16	2019-11-17
+174526	Smoky Mountain Rubber Stamp and Scrapbook Getaway	https://toomuchfunpromotions.com/sevierville%2C-tn	2019-10-19	2019-10-20
+2166	Feriarte	https://www.ifema.es/feriarte	2019-11-16	2019-11-24
+441272	India Carpet Expo	http://www.cepc.co.in/events/stand-alone-show-of-cepc-for-handmade-carpets-and-other-floor-coverings-in-mumbai	2019-11-07	2019-11-10
+235394	Air Capital Comic Con	https://www.aircapcomiccon.com/	2019-11-16	2019-11-17
+112193	Cocoon	https://www.cocoon.be/nl/praktische-info/praktische-info	2019-11-15	2019-11-18
+259666	Snowbomb Sacramento	https://www.sfskifest.com/	2019-11-15	2019-11-17
+23051	Inland Empire 50+ Senior Expo	https://goldenfutureseniorexpo.com/2019-schedule	2020-06-27	2020-06-27
+195371	Toronto Anesthesia Symposium: SGAs and Videolaryngoscopes: Is That All We Need	https://www.cpd.utoronto.ca/anesthesia/	2020-04-04	2020-04-05
+210668	Golden Future 50 Plus Senior Expo Van Nuys	https://goldenfutureseniorexpo.com/2019-schedule	2020-10-10	2020-10-10
+303624	Strategic Agility and Resilience: Embracing Change to Drive Growth	https://www.amanet.org/building-agility-and-resilience-winning-strategies-for-leaders/	2020-07-09	2020-07-10
+207801	Hanbury Manor Wedding Show	https://www.mainweddingsandevents.co.uk/Hertfordshire-Wedding-Shows/Hanbury-Manor-Wedding-Show/	2020-01-26	2020-01-26
+240073	Houchins Wedding Show	https://www.mainweddingsandevents.co.uk/Essex-Wedding-Shows/Houchins-Wedding-Show/	2020-01-26	2020-01-26
+356989	ANIMH International Conference on Multidisciplinary Research and Development in Engineering Technology & Applied Sciences	https://animh.com/hongkong-conferences/mdea-nov-2019/	2019-11-16	2019-11-17
+68735	Anthem Richmond Marathon Expo	https://www.richmondmarathon.org/	2019-11-16	2019-11-16
+274854	Repticon Oklahoma City	http://repticon.com/oklahoma/oklahoma-city/	2019-11-16	2019-11-17
+369573	New Frontiers in Cosmetic Medicine Symposium	https://www.cosmeticfrontiers.com/venue/	2019-11-15	2019-11-17
+101925	Somerset KY Gun Show	https://rkshows.com/event/somerset-ky-gun-show-november/	2019-11-16	2019-11-17
+338513	"Teaching, Learning and Curriculum Section Midyear Colloquium"	http://aaahq.org/Meetings/2017/Teaching-Learning-and-Curriculum	2019-11-08	2019-11-09
+405581	International Conference on Advanced Mechanical and Electrical Engineering	http://amee.net	2019-11-16	2019-11-18
+289977	London Winter Festival - The Wine Gang	https://www.thewinegang.com/upcoming-events/2019/11/16/london-winter-festival	2019-11-16	2019-11-16
+212983	Foodies Festival And Exhibition Tatton Park	https://foodiesfestival.com/tatton-park-christmas/	2019-11-15	2019-11-17
+297039	Bloomsbury Book Ephemera & Postcard Fair	https://etcfairs.com/2019/09/17/dates-for-2020/	2020-01-12	2020-01-12
+298741	Mountain View Art & Wine Festival	https://www.miramarevents.com/events#summendrfest	2020-09-12	2020-09-13
+61146	Hunting and Fishing in Russia	http://www.hunting-expo.ru/en/about	2020-02-20	2020-02-23
+287333	Baltimore Whiskey Festival	http://drinkeatwhiskey.com/home-restaurant	2019-11-23	2019-11-23
+121351	ASPET Meeting	https://www.aspet.org/Future_Annual_Meetings/	2020-04-04	2020-04-07
+43058	ASBMB Annual Meeting	https://www.asbmb.org/annualmeeting/	2020-04-04	2020-04-07
+22347	Home & Garden Showcase	http://www.showtimeproduction.net/home-garden-showcase/	2020-04-04	2020-04-05
+356007	Idaho Dream Wedding Expo	https://www.iblevents.com/idaho-dream-wedding-expo-exhibitor-about	2019-10-19	2019-10-20
+346727	International Conference on Current Research in Business management and Information Technology	https://chinasymposiums.com/upcoming-conference/international-conference-crbmt-nov-2019/	2019-11-16	2019-11-17
+47994	Zuger Messe	https://www.zugermesse.ch/	2019-10-19	2019-10-27
+235805	The Cullowhee Native Plant Conference	https://www.wcu.edu/engage/professional-enrichment/conferences-and-community-classes/the-cullowhee-native-plant-conference/index.aspx	2020-07-22	2020-07-25
+194350	Bmw Show	http://www.bmwshow.co.uk/index.php	2020-06-14	2020-06-14
+220514	Open Source Monitoring Conference	http://monitorama.com/2020/pdx.html	2020-06-08	2020-06-10
+328350	International Conference on Current Trends in Engineering and Technology	http://ifiad.in/Conference/2020/Oct/11th-New%20Delhi-ICCTET/index.html	2020-10-11	2020-10-11
+234820	Santa Clara County Fair	https://thefair.org/	2020-07-30	2020-08-02
+159248	International Conference on Mechanical And Production Engineering	http://itresearch.org.in/Conference2019/12/Vizag/ICMPE/	2019-12-19	2019-12-19
+208336	Urban Municipal Administrators Association of Saskatchewan convention	http://www.umaas.ca/	2020-06-02	2020-06-05
+54176	International Conference on Agriculture for Life Life for Agriculture	http://agricultureforlife.usamv.ro/	2020-06-04	2020-06-06
+183139	Palmer Park Art fair	https://www.palmerparkartfair.com/	2020-06-06	2020-06-07
+175119	Winter Conference	http://extension.missouri.edu/hes/asnnaconference/	2020-02-03	2020-02-06
+386501	International Conference on Medical & Health Science	http://researchfora.com/Conference2020/SouthKorea/2/ICMHS/	2020-01-04	2020-01-05
+301165	Ink Masters Tattoo Expo Killeen	http://inkmasterstattooexpo.com/location.html	2019-10-11	2019-10-13
+407777	GoGreen Summit & The Remedies for Climate Change	https://gogreen.bioleagues.com/	2019-10-18	2019-10-19
+419486	"Global Conference on Business, Economics, Management and Tourism"	http://www.globalcenter.info/bemtur/	2019-10-18	2019-10-20
+265390	Midwest Bonsai Society Meeting	http://www.midwestbonsai.org/calendar/2019/11/4/november-midwest-bonsai-society-meeting	2019-11-04	2019-11-04
+317237	Antiviral Drugs Research & Development	https://www.expohour.com/antiviral-drugs-research-development-baltimore	2020-06-28	2020-06-29
+15396	Dremasilesia	https://www.mtp.pl/pl/kalendarium/?_ga=2.257852043.1248434512.1570546159-700273703.1570546159	2020-04-17	2020-04-19
+12455	Special Equipment Exhibition & Conference for Anti-Terrorism	http://www.seecat.biz/english/	2020-10-21	2020-10-23
+302213	London Doll & Teddy Bear Spring Show & Sale	https://www.londondollshow.com/	2020-04-05	2020-04-05
+298349	Nashville Exotic Pet Expo	http://nashvilleexoticpet.com/home-5/	2020-04-18	2020-04-19
+297477	Russia Blades	https://volgogradexpo.ru/exhibitions/	2020-04-15	2020-04-19
+21984	House Of Time	https://www.fiereantiquariato.it/eventi/la-casa-del-tempo-01-dicembre-2019	2019-12-01	2019-12-01
+394894	VEaM's Health and Wellness Fair	http://www.vegaseventsandmore.com/	2020-01-29	2020-01-29
+124501	Tourist Hunter Angler	https://volgogradexpo.ru/exhibitions/	2020-04-15	2020-04-19

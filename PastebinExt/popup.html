@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pastebin Auto Input</title>
+    <style>
+      body {
+        width: 300px;
+        font-family: Arial, sans-serif;
+      }
+      h1 {
+        margin-top: 0;
+      }
+      select {
+        width: 100%;
+        margin-bottom: 10px;
+      }
+      button {
+        width: 100%;
+        padding: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Pastebin Auto Input</h1>
+    <textarea id="textInput" placeholder="Enter text to paste"></textarea>
+    <button id="pasteButton">Paste</button>
+    <select id="selectOption">
+      <option value="">Select an option</option>
+      <option value="N">Never</option>
+      <option value="10M">10 Min</option>
+      <option value="1D">1 D</option>
+    </select>
+    <button id="saveButton">Save</button>
+    <!-- <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-database.js"></script> -->
+    <script src="popup.js"></script>
+    
+  </body>
+</html>
