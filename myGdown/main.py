@@ -27,9 +27,9 @@ def PrashantTiwariPDF():
     dt = datetime.date.today().strftime("%d")
     day = datetime.date.today().strftime('%A')
     dir_name = dt+' '+mn+' '+yr
-    if (day=='Sunday'):
-        print('Its Sunday, No pdf today')
-        return
+    # if (day=='Sunday'):
+    #     print('Its Sunday, No pdf today')
+    #     return
     # print(dir_name)
     
     isExistYear = os.path.exists('D:\\Learnings\\UPSC\\Prashant Tiwari - Hindu News Paper\\'+yr)
