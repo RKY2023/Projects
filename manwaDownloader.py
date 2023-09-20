@@ -6,9 +6,13 @@ from datetime import datetime as dt
 import os
 import shutil
 import pandas as pd
+import numpy as np
 import base64
-
 import platform
+import json
+from json import loads, dumps
+
+
 systemOS = platform.system()
 print("Current OS: ", systemOS)
 if(systemOS == 'Windows'):
@@ -20,21 +24,23 @@ dirname = os.path.dirname(__file__)
 printFolder = True
 lastChapter = ''
 last_manga_folder_name = ''
-def makecbz():
-    exit()
-def declareChapterEnd(manga_chapter_name):
-    print('Last Chapter was:',manga_chapter_name)
+firstPgConditionCount = 0 # counts pattern searched for starting page within list of condition
+csv_location = 'D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga_sync.csv'
+
 # for main page data for csv 
 mm_name = []
 mm_banner = []
-mm_url = []
+mm_host_url = []
+mm_name_url = []
 mm_rating = []
 mm_chapters = []
+mm_default = []
+mm_ch_default = []
 
-def mainPagelistingHtml__pager():
+def createMangaCSV():
     nextpg = "https://manhwahentai.me/webtoon"
     i=0
-    while(i<40):
+    while(i<100):
         i=i+1
         tt = mainPagelistingHtml(nextpg)
         nextpg = tt
@@ -42,15 +48,32 @@ def mainPagelistingHtml__pager():
             break
     
     # Transform data into tables
-    dt_DF = pd.DataFrame(mm_name)
-    tr_DF = pd.DataFrame(mm_chapters)
-    ch_DF = pd.DataFrame(mm_url)
-    cr_DF = pd.DataFrame(mm_rating)
+    name_DF = pd.DataFrame(mm_name)
+    host_DF = pd.DataFrame(mm_host_url)
+    name_url_DF = pd.DataFrame(mm_name_url)
+    ch_DF = pd.DataFrame(mm_chapters)
+    rate_DF = pd.DataFrame(mm_rating)
     bn_DF = pd.DataFrame(mm_banner)
-    MainDataFrame = pd.concat([dt_DF, tr_DF, ch_DF, cr_DF, bn_DF], axis=1)
-    MainDataFrame.columns =['name', 'chapter', 'url', 'rating', 'banner']
+    offine_DF = pd.DataFrame(mm_default)
+    ch_sync_DF = pd.DataFrame(mm_ch_default)
+    sp_case_DF = pd.DataFrame(mm_default)
+    
+    MainDataFrame = pd.concat([name_DF, host_DF, name_url_DF, ch_DF, rate_DF, bn_DF, offine_DF, ch_sync_DF, sp_case_DF], axis=1)
+    MainDataFrame.columns =['name', 'host_url', 'name_url', 'chapter', 'rating', 'banner', 'offline', 'chapter_sync', 'sp_case']
     print(MainDataFrame)
-    MainDataFrame.to_csv('D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga.csv')
+    MainDataFrame.to_csv('D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga.csv', index=False)
+
+    # sync with old CSV
+    df = pd.read_csv(csv_location)
+    # print(df) 
+
+    print('Adding Dataframe')
+    df = pd.concat([df,MainDataFrame])
+    df.drop_duplicates(subset=['name_url'], keep="first", inplace=True)
+    
+    # print(df) 
+    df.to_csv(csv_location, index=False)
+    
 
 def mainPagelistingHtml(url):
     try:
@@ -59,10 +82,7 @@ def mainPagelistingHtml(url):
         url_link = url
         result = requests.get(url_link).text
         doc = BeautifulSoup(result, "html.parser")
-        # html = doc.prettify("utf-8")
-        html = doc.find('div', class_='main-col-inner').prettify("utf-8")
-        with open("output1.html", "wb") as file:
-            file.write(html)
+        # generateHTMLdump(doc,2)
         # return 0
         mangas = doc.findAll('div', class_='manga')
         global mm_name, mm_banner, mm_url, mm_rating, mm_chapters
@@ -84,11 +104,29 @@ def mainPagelistingHtml(url):
             r = requests.get(m_img, allow_redirects=True)
             open('D:\\WORK\\MEGA_DATA_WAREHOUSE\\agnam\\'+manga_chapter_imgFile, 'wb').write(r.content)
             # base64_str = b.decode('utf-8') # convert bytes to string
-            mm_name.append(m_name.find('a').text)
-            mm_url.append(m_name.find('a').attrs['href'])
-            mm_banner.append(manga_chapter_imgFile)
+
+            # split url into host and mangaurl name
+            url_temp = m_name.find('a').attrs['href']
+            url_temp_arr = m_name.find('a').attrs['href'].split('/')
+            name_url_temp = url_temp_arr[len(url_temp_arr)-2]
+            host_url_temp = url_temp.replace('/'+name_url_temp+'/','')
+            ch_temp = manga.find('a', class_='btn-link').text.replace('Chapter','').replace('Chaptre','').replace(' ','').replace('END','')
+            try:
+                ch_temp = float(ch_temp)
+                ch_temp = int(ch_temp)
+            except ValueError:
+                continue
+
+            mm_name.append(str(m_name.find('a').text))
+            mm_host_url.append(str(host_url_temp))
+            mm_name_url.append(str(name_url_temp))
+            # mm_url.append(str(m_name.find('a').attrs['href']))
+            mm_banner.append(str(manga_chapter_imgFile))
             mm_rating.append(manga.find('div', class_='rating').text.replace('\n',''))
-            mm_chapters.append(manga.find('a', class_='btn-link').text)
+            mm_chapters.append(int(ch_temp))
+            mm_default.append(0)
+            mm_ch_default.append(1)
+
         div_nextpg = doc.find('div', class_='wp-pagenavi')
         nextpg = div_nextpg.find('a', class_='larger').attrs['href']
         print(nextpg)
@@ -97,15 +135,61 @@ def mainPagelistingHtml(url):
         print('Error:'+repr(error))
         return ''
 
+
+def mangaSync(manga_chapter_name, manga_name, mode):
+    # sync and update /add
+    if(mode == 0):
+        df = pd.read_csv(csv_location)
+        manga_chapter_name = manga_chapter_name.replace('chapter','').replace('-','')
+        # print(df) 
+        print('updating chapter...',manga_name, manga_chapter_name)
+        df_up_index = df[(df['name_url'] == manga_name)].index
+        df['chapter_sync'][df_up_index] = manga_chapter_name
+        # print(df) 
+        df.to_csv(csv_location, index=False)
+    # add total chapter column
+    elif(mode == 1):
+        df = pd.read_csv('D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga.csv')
+        print(df) 
+        
+        df['name-url'] = df['url'].replace('https://manhwahentai.me/webtoon/', '')
+        
+        print(df) 
+        # df.to_csv(csv_location, index=False)
+       
+    exit()
+
+def declareChapterEnd(manga_chapter_name, manga_name):
+    print('Last Chapter was:',manga_chapter_name)
+    print('Last ',manga_chapter_name, manga_name)
+    mangaSync(manga_chapter_name, manga_name, 0)
+
+def generateHTMLdump(doc, mode=0):
+    html = doc.prettify("utf-8")
+    
+    if(mode == 0): # full page
+        html = html
+    if(mode == 1): # body only
+        html = doc.find('body').prettify("utf-8")
+    if(mode == 2): # div
+        html = doc.find('div', class_='main-col-inner').prettify("utf-8")
+
+    with open("output1.html", "wb") as file:
+        file.write(html)
+    print('Error log: output1.html')
+    exit()
+    
 def downloadpage(pageurl):
     # url_link = "https://sololeveling-manhwa.online/manga/solo-leveling-chapter-1/"
     global dirname, dirSeparator, printFolder, lastChapter, last_manga_folder_name
-
+    
     try :
         url_link = pageurl
         result = requests.get(url_link).text
         doc = BeautifulSoup(result, "html.parser")
         
+        # generateHTMLdump(doc,0)
+
         # column=doc.find('div', class_='column')
         column=doc.find('div', class_='entry-content')
 
@@ -139,14 +223,16 @@ def downloadpage(pageurl):
         # print(pageurl, manga_chapter_name, last_manga_folder_name, manga_folder_name)
         if(isProfilePage != None):
             if(last_manga_folder_name == manga_chapter_name):
-                declareChapterEnd(manga_chapter_name)
+                print('a')
+                declareChapterEnd(lastChapter, last_manga_folder_name)
                 nxtpg_url = ''
                 return nxtpg_url
             nxtpg_url =  pageurl[0:len(pageurl)-1]+'_1'+'/'
             return nxtpg_url
         # for Chapters
         if(manga_chapter_name == last_manga_folder_name): # manga having nxt = starting pg
-            declareChapterEnd(lastChapter)
+            print('aa')
+            declareChapterEnd(lastChapter, last_manga_folder_name)
         print('Chapter:',manga_chapter_name)
         dir_manga_chapter_name = dir_manga_folder_name + dirSeparator + manga_chapter_name
         print('Chapter Folder:',dir_manga_chapter_name)
@@ -155,11 +241,8 @@ def downloadpage(pageurl):
             shutil.rmtree(dir_manga_chapter_name)
         os.mkdir(dir_manga_chapter_name)
 
-        # # print(doc)
-        # html = doc.prettify("utf-8")
-        # with open("output1.html", "wb") as file:
-        #     file.write(html)
-        # exit()
+        # generateHTMLdump(doc,0)
+
         columns = column.findAll('img')
         ii = 0
         for para in columns:
@@ -199,37 +282,19 @@ def downloadpage(pageurl):
         last_manga_folder_name = manga_folder_name
         lastChapter = manga_chapter_name
         if(nxtpg_url == ''):
-            declareChapterEnd(manga_chapter_name)
+            print('aaa')
+            declareChapterEnd(lastChapter, manga_folder_name)
     except:
-        html = doc.find('body').prettify("utf-8")
-        with open("output1.html", "wb") as file:
-            file.write(html)
-        print('Error log: output1.html')
-        exit()
+        generateHTMLdump(doc,0)
     return nxtpg_url
      
 def download():
     # url = "https://sololeveling-manhwa.online/manga/solo-leveling-chapter-"
-    
-    # for i in range(1,201):
-    #     url_link = url+str(i)+'/'
-    #     print(url_link)
-    #     tt = downloadpage(url_link)
-    
+    # url = "https://manhwahentai.me/webtoon/the-17th-son/chapter-1/"
+          
     # next pg or url to start
-    url = "https://manhwahentai.me/webtoon/sex-stop-watch/chapter-18/"
-    # https://mangahentai.me/manga-hentai/excuse-me-this-is-my-room-mgh-0016/chapter-1/
-    # https://mangahentai.me/manga-hentai/ones-in-laws-virgins-mgh-0016/chapter-1/
-    # https://manhwahentai.me/webtoon/what-do-you-take-me-for-webtoon-manhwa-hentai-manhwa0017/chapter-1/
-    # https://manhwahentai.me/webtoon/the-perfect-roommates-webtoon-manhwa-hentai-manhwa0017/chapter-1/
-    # https://manhwahentai.me/webtoon/young-boss-webtoon-manhwa-hentai-manhwa0017/chapter-1/
-    # https://manhwahentai.me/webtoon/weak-point-webtoon-manhwa-hentai-manhwa0017/chapter-1/
-    # https://manhwahentai.me/webtoon/love-square-manhwa0017/chapter-1/
-    # https://manhwahentai.me/webtoon/dance-departments-female-sunbaes-manhwa-hentai-001/
-    # https://manhwahentai.me/webtoon/lets-hang-out-from-today/
-    # https://manhwahentai.me/webtoon/park-moojik-hit-the-jackpot/
-    # https://manhwahentai.me/webtoon/wanna-live-by-the-countryside/
-    # https://manhwahentai.me/webtoon/sex-stop-watch/
+    url = "https://manhwahentai.me/webtoon/the-17th-son/chapter-1/"
+    
     nextpg = url
     i=0
     while(i<200):
@@ -241,7 +306,8 @@ def download():
     
     sub_dir_url = url.split('/')
     manga_folder_name = sub_dir_url[len(sub_dir_url)-3]
-    
+    print('Manga Folder:', manga_folder_name)
+    # exit()
 
     source_folder = r"D:\Work\Projects\\"+manga_folder_name+"\\"
     destination_folder = r"D:\Livings\Mobile Sync\Manga\\"+manga_folder_name+"\\"
@@ -261,5 +327,28 @@ def download():
     isSourceFolderExists = os.path.exists(source_folder)
     if(isSourceFolderExists == True):
         os.rmdir(source_folder)
+
+def readCSVandDownloadManga():
+    df = pd.read_csv(csv_location)
+    # df['age'] = pd.to_numeric(df['age'], errors='coerce')
+    offlined_df = df[df['offline'] == 1]
+    
+    chapter_to_download = offlined_df[offlined_df['chapter_sync'] < offlined_df['chapter']]
+    # # print(chapter_to_download)
+
+    chapter_to_download = chapter_to_download.reset_index(drop=True)
+    chapter_to_download['url'] = chapter_to_download['host_url'].map(str)+'/'+chapter_to_download['name_url'].map(str)+'/chapter-'+chapter_to_download['chapter_sync'].map(str)
+    # # print(chapter_to_download['url'].to_numpy())
+
+    for url in chapter_to_download['url'].to_numpy():
+        print(url)
+        # download(url)
+
+# readCSVandDownloadManga()
 download()
-# mainPagelistingHtml__pager()
+# createMangaCSV() # 1 time run in month
+# mangaSync('chapter-1','a-wise-drivers-life', 1) # testing module
+
+# special case for debugging
+# sex stopwatch
+#  chapters <=3
