@@ -1,9 +1,0 @@
-# Window = window TextField Background
-# WindowText = window TextField Text
-# WindowFrame = windowBackground
-# ActiveTitle = Title Background
-# InActiveTitle = Title Text
-# TitleText = Title text
-# InActiveTitle = Title Text
-# WindowText = window TextField Text
-# WindowFrame = windowBackground

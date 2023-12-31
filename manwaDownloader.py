@@ -26,6 +26,7 @@ lastChapter = ''
 last_manga_folder_name = ''
 firstPgConditionCount = 0 # counts pattern searched for starting page within list of condition
 csv_location = 'D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga_sync.csv'
+csv_location2 = 'D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga.csv'
 
 # for main page data for csv 
 mm_name = []
@@ -61,7 +62,7 @@ def createMangaCSV():
     MainDataFrame = pd.concat([name_DF, host_DF, name_url_DF, ch_DF, rate_DF, bn_DF, offine_DF, ch_sync_DF, sp_case_DF], axis=1)
     MainDataFrame.columns =['name', 'host_url', 'name_url', 'chapter', 'rating', 'banner', 'offline', 'chapter_sync', 'sp_case']
     print(MainDataFrame)
-    MainDataFrame.to_csv('D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga.csv', index=False)
+    MainDataFrame.to_csv(csv_location2, index=False)
 
     # sync with old CSV
     df = pd.read_csv(csv_location)
@@ -74,7 +75,6 @@ def createMangaCSV():
     # print(df) 
     df.to_csv(csv_location, index=False)
     
-
 def mainPagelistingHtml(url):
     try:
         # url_link = "https://manhwahentai.me/webtoon/"
@@ -113,7 +113,7 @@ def mainPagelistingHtml(url):
             ch_temp = manga.find('a', class_='btn-link').text.replace('Chapter','').replace('Chaptre','').replace(' ','').replace('END','')
             try:
                 ch_temp = float(ch_temp)
-                ch_temp = int(ch_temp)
+                # ch_temp = int(ch_temp)
             except ValueError:
                 continue
 
@@ -123,7 +123,7 @@ def mainPagelistingHtml(url):
             # mm_url.append(str(m_name.find('a').attrs['href']))
             mm_banner.append(str(manga_chapter_imgFile))
             mm_rating.append(manga.find('div', class_='rating').text.replace('\n',''))
-            mm_chapters.append(int(ch_temp))
+            mm_chapters.append(ch_temp)
             mm_default.append(0)
             mm_ch_default.append(1)
 
@@ -135,7 +135,6 @@ def mainPagelistingHtml(url):
         print('Error:'+repr(error))
         return ''
 
-
 def mangaSync(manga_chapter_name, manga_name, mode):
     # sync and update /add
     if(mode == 0):
@@ -146,18 +145,7 @@ def mangaSync(manga_chapter_name, manga_name, mode):
         df_up_index = df[(df['name_url'] == manga_name)].index
         df['chapter_sync'][df_up_index] = manga_chapter_name
         # print(df) 
-        df.to_csv(csv_location, index=False)
-    # add total chapter column
-    elif(mode == 1):
-        df = pd.read_csv('D:\\WORK\\MEGA_DATA_WAREHOUSE\\CSV\\manga.csv')
-        print(df) 
-        
-        df['name-url'] = df['url'].replace('https://manhwahentai.me/webtoon/', '')
-        
-        print(df) 
-        # df.to_csv(csv_location, index=False)
-       
-    exit()
+        df.to_csv(csv_location, index=False)  
 
 def declareChapterEnd(manga_chapter_name, manga_name):
     print('Last Chapter was:',manga_chapter_name)
@@ -288,16 +276,19 @@ def downloadpage(pageurl):
         generateHTMLdump(doc,0)
     return nxtpg_url
      
-def download():
+def download(url):
     # url = "https://sololeveling-manhwa.online/manga/solo-leveling-chapter-"
     # url = "https://manhwahentai.me/webtoon/the-17th-son/chapter-1/"
           
     # next pg or url to start
-    url = "https://manhwahentai.me/webtoon/the-17th-son/chapter-1/"
-    
+    # url = "https://manhwahentai.me/webtoon/the-17th-son/chapter-1/"
+    global printFolder, lastChapter, last_manga_folder_name
+    printFolder = True
+    lastChapter = ''
+    last_manga_folder_name = ''    
     nextpg = url
     i=0
-    while(i<200):
+    while(i<300):
         i=i+1
         tt = downloadpage(nextpg)
         nextpg = tt
@@ -334,21 +325,75 @@ def readCSVandDownloadManga():
     offlined_df = df[df['offline'] == 1]
     
     chapter_to_download = offlined_df[offlined_df['chapter_sync'] < offlined_df['chapter']]
-    # # print(chapter_to_download)
+    print(chapter_to_download)
 
     chapter_to_download = chapter_to_download.reset_index(drop=True)
     chapter_to_download['url'] = chapter_to_download['host_url'].map(str)+'/'+chapter_to_download['name_url'].map(str)+'/chapter-'+chapter_to_download['chapter_sync'].map(str)
     # # print(chapter_to_download['url'].to_numpy())
 
     for url in chapter_to_download['url'].to_numpy():
-        print(url)
-        # download(url)
+        print(url+'/')
+        download(url+'/')
 
-# readCSVandDownloadManga()
-download()
-# createMangaCSV() # 1 time run in month
-# mangaSync('chapter-1','a-wise-drivers-life', 1) # testing module
+def csvsync():
+    df = pd.read_csv(csv_location)
+    # df['age'] = pd.to_numeric(df['age'], errors='coerce')
+    offlined_df = df[df['offline'] == 1]
 
-# special case for debugging
-# sex stopwatch
-#  chapters <=3
+    df2 = pd.read_csv(csv_location2)
+    mergedStuff = pd.merge(offlined_df, df2, on=['name'], how='inner')
+    mergedStuff.head()
+    # df_up_index = df[(df['name_url'] == manga_name)].index
+    # df['chapter_sync'][df_up_index] = manga_chapter_name
+    # # print(df) 
+    
+    chapter_to_download = offlined_df[offlined_df['chapter_sync'] < offlined_df['chapter']]
+    print(mergedStuff)
+
+    # chapter_to_download = chapter_to_download.reset_index(drop=True)
+    # chapter_to_download['url'] = chapter_to_download['host_url'].map(str)+'/'+chapter_to_download['name_url'].map(str)+'/chapter-'+chapter_to_download['chapter_sync'].map(str)
+    # # # print(chapter_to_download['url'].to_numpy())
+
+    # for url in chapter_to_download['url'].to_numpy():
+    #     print(url+'/')
+    #     download(url+'/')
+
+def autoGUI(option):
+    global error, pageURLchanged, firstrun
+    # minimizeVSCODE()
+
+    if(option == 1):
+        # PART 1 Create Mangas CSV (1 time run in month)
+        createMangaCSV()
+
+    # PART 2 CSV Update
+    if(option == 2):
+        csvsync()
+    
+    # PART 2 Download
+    if(option == 3):
+        readCSVandDownloadManga()
+
+    # both
+    if(option == 4):
+        autoGUI(1)
+        autoGUI(2)
+        autoGUI(3)
+    if(option == 5):
+        exit()
+    exit()
+
+def autoGUI_main():
+    print('Select below option:')
+    print('1: Create Mangas CSV')
+    print('2: CSV Update: manga -> manga_sync ')
+    print('3: Download')
+    print('4: All')
+    print('5: Exit')
+    option = int(input("Enter your option: "))
+    if(option > 0 and option <6):
+        autoGUI(option)
+    else:
+        exit() 
+
+autoGUI_main()
